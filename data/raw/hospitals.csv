@@ -1,0 +1,1001 @@
+facility_id,facility_name,state,hospital_type,hospital_ownership,emergency_services,hospital_overall_rating,count_of_readm_measures_better,count_of_readm_measures_no_different,count_of_readm_measures_worse
+010001,SOUTHEAST HEALTH MEDICAL CENTER,AL,Acute Care Hospitals,Government - Hospital District or Authority,True,4.0,0,11,0
+010005,MARSHALL MEDICAL CENTERS,AL,Acute Care Hospitals,Government - Hospital District or Authority,True,3.0,0,8,1
+010006,NORTH ALABAMA MEDICAL CENTER,AL,Acute Care Hospitals,Proprietary,True,2.0,0,8,1
+010007,MIZELL MEMORIAL HOSPITAL,AL,Acute Care Hospitals,Voluntary non-profit - Private,True,1.0,0,7,0
+010008,CRENSHAW COMMUNITY HOSPITAL,AL,Acute Care Hospitals,Proprietary,True,,0,2,0
+010011,ST. VINCENT'S EAST,AL,Acute Care Hospitals,Voluntary non-profit - Private,True,2.0,0,8,1
+010012,DEKALB REGIONAL MEDICAL CENTER,AL,Acute Care Hospitals,Proprietary,True,3.0,0,8,0
+010016,SHELBY BAPTIST MEDICAL CENTER,AL,Acute Care Hospitals,Voluntary non-profit - Private,True,2.0,0,8,1
+010018,CALLAHAN EYE HOSPITAL,AL,Acute Care Hospitals,Voluntary non-profit - Private,True,,0,1,0
+010019,HELEN KELLER HOSPITAL,AL,Acute Care Hospitals,Government - Hospital District or Authority,True,2.0,0,7,0
+010021,DALE MEDICAL CENTER,AL,Acute Care Hospitals,Government - Hospital District or Authority,True,3.0,0,5,0
+010022,FLOYD CHEROKEE MEDICAL CENTER,AL,Acute Care Hospitals,Proprietary,True,,0,3,0
+010023,BAPTIST MEDICAL CENTER SOUTH,AL,Acute Care Hospitals,Government - Hospital District or Authority,True,1.0,1,8,2
+010024,JACKSON HOSPITAL & CLINIC INC,AL,Acute Care Hospitals,Voluntary non-profit - Private,True,2.0,1,7,2
+010029,THE EAST ALABAMA HEALTHCARE AUTHORITY,AL,Acute Care Hospitals,Government - Hospital District or Authority,True,3.0,1,8,2
+010033,UNIVERSITY OF ALABAMA HOSPITAL,AL,Acute Care Hospitals,Government - State,True,3.0,1,8,2
+010034,COMMUNITY HOSPITAL INC,AL,Acute Care Hospitals,Voluntary non-profit - Private,True,,0,2,0
+010035,CULLMAN REGIONAL MEDICAL CENTER,AL,Acute Care Hospitals,Government - Hospital District or Authority,True,2.0,0,6,1
+010036,ANDALUSIA HEALTH,AL,Acute Care Hospitals,Proprietary,True,2.0,0,6,1
+010039,HUNTSVILLE HOSPITAL,AL,Acute Care Hospitals,Government - Hospital District or Authority,True,2.0,1,9,1
+010040,GADSDEN REGIONAL MEDICAL CENTER,AL,Acute Care Hospitals,Proprietary,True,1.0,0,9,0
+010044,MARION REGIONAL MEDICAL CENTER,AL,Acute Care Hospitals,Voluntary non-profit - Private,True,,2,2,0
+010045,FAYETTE MEDICAL CENTER,AL,Acute Care Hospitals,Voluntary non-profit - Other,True,2.0,0,5,0
+010046,RIVERVIEW REGIONAL MEDICAL CENTER,AL,Acute Care Hospitals,Proprietary,True,2.0,0,6,1
+010049,MEDICAL CENTER ENTERPRISE,AL,Acute Care Hospitals,Proprietary,True,3.0,0,7,0
+010051,GREENE COUNTY HOSPITAL,AL,Acute Care Hospitals,Voluntary non-profit - Other,True,,Not Available,Not Available,Not Available
+010052,LAKE MARTIN COMMUNITY HOSPITAL,AL,Acute Care Hospitals,Proprietary,True,,0,2,0
+010055,FLOWERS HOSPITAL,AL,Acute Care Hospitals,Proprietary,True,2.0,0,7,2
+010056,ST VINCENT'S BIRMINGHAM,AL,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,1,8,0
+010058,BIBB MEDICAL CENTER,AL,Acute Care Hospitals,Government - Hospital District or Authority,True,,0,2,0
+010059,LAWRENCE MEDICAL CENTER,AL,Acute Care Hospitals,Government - Hospital District or Authority,True,,0,2,0
+010061,HIGHLANDS MEDICAL CENTER,AL,Acute Care Hospitals,Government - Hospital District or Authority,True,3.0,0,6,0
+010062,WIREGRASS MEDICAL CENTER,AL,Acute Care Hospitals,Government - Hospital District or Authority,True,,0,3,0
+010065,RUSSELL MEDICAL CENTER,AL,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,1,8,0
+010073,CLAY COUNTY HOSPITAL,AL,Acute Care Hospitals,Government - Hospital District or Authority,True,,0,3,0
+010078,NORTHEAST ALABAMA REGIONAL MEDICAL CENTER,AL,Acute Care Hospitals,Government - Local,True,1.0,0,8,2
+010079,ATHENS LIMESTONE HOSPITAL,AL,Acute Care Hospitals,Government - Hospital District or Authority,True,3.0,1,4,2
+010083,BALDWIN HEALTH,AL,Acute Care Hospitals,Proprietary,True,4.0,2,6,0
+010085,DECATUR MORGAN HOSPITAL - DECATUR CAMPUS,AL,Acute Care Hospitals,Government - Hospital District or Authority,True,3.0,0,7,0
+010086,NORTHWEST MEDICAL CENTER,AL,Acute Care Hospitals,Proprietary,True,4.0,0,5,0
+010087,USA HEALTH UNIVERSITY HOSPITAL,AL,Acute Care Hospitals,Government - State,True,2.0,0,5,2
+010089,WALKER BAPTIST MEDICAL CENTER,AL,Acute Care Hospitals,Proprietary,True,3.0,0,5,1
+010090,"USA HEALTH HCA PROVIDENCE HOSPITAL, LLC",AL,Acute Care Hospitals,Voluntary non-profit - Church,True,3.0,0,8,1
+010091,GROVE HILL MEMORIAL HOSPITAL,AL,Acute Care Hospitals,Government - Hospital District or Authority,True,,0,1,0
+010092,DCH REGIONAL MEDICAL CENTER,AL,Acute Care Hospitals,Government - Hospital District or Authority,True,1.0,0,8,3
+010095,HALE COUNTY HOSPITAL,AL,Acute Care Hospitals,Government - Hospital District or Authority,True,,0,1,0
+010097,ELMORE COMMUNITY HOSPITAL,AL,Acute Care Hospitals,Proprietary,True,,0,3,0
+010099,D W MCMILLAN MEMORIAL HOSPITAL,AL,Acute Care Hospitals,Government - Hospital District or Authority,True,,0,6,0
+010100,THOMAS HOSPITAL,AL,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,1,8,0
+010101,CITIZENS BAPTIST MEDICAL CENTER,AL,Acute Care Hospitals,Voluntary non-profit - Private,True,,0,3,1
+010102,J PAUL JONES HOSPITAL,AL,Acute Care Hospitals,Government - Local,True,,Not Available,Not Available,Not Available
+010103,PRINCETON BAPTIST MEDICAL CENTER,AL,Acute Care Hospitals,Voluntary non-profit - Church,True,3.0,0,9,0
+010104,GRANDVIEW MEDICAL CENTER,AL,Acute Care Hospitals,Proprietary,True,2.0,0,9,2
+010108,PRATTVILLE BAPTIST HOSPITAL,AL,Acute Care Hospitals,Government - Hospital District or Authority,True,3.0,0,5,0
+010110,BULLOCK COUNTY HOSPITAL,AL,Acute Care Hospitals,Proprietary,True,,Not Available,Not Available,Not Available
+010112,WHITFIELD REGIONAL HOSPITAL,AL,Acute Care Hospitals,Government - Hospital District or Authority,True,,0,5,0
+010113,MOBILE INFIRMARY MEDICAL CENTER,AL,Acute Care Hospitals,Voluntary non-profit - Private,True,2.0,0,10,1
+010114,"MEDICAL WEST, AN AFFILIATE OF UAB HEALTH SYSTEM",AL,Acute Care Hospitals,Government - Hospital District or Authority,True,2.0,0,5,1
+010118,VAUGHAN REGIONAL MEDICAL CENTER PARKWAY CAMPUS,AL,Acute Care Hospitals,Proprietary,True,2.0,0,4,1
+010120,MONROE COUNTY HOSPITAL,AL,Acute Care Hospitals,Government - Hospital District or Authority,True,,0,4,0
+010125,LAKELAND COMMUNITY HOSPITAL,AL,Acute Care Hospitals,Proprietary,True,4.0,0,4,0
+010126,TROY REGIONAL MEDICAL CENTER,AL,Acute Care Hospitals,Government - Federal,True,,0,4,0
+010128,JACKSON MEDICAL CENTER,AL,Acute Care Hospitals,Proprietary,True,,0,3,0
+010129,NORTH BALDWIN INFIRMARY,AL,Acute Care Hospitals,Voluntary non-profit - Private,True,,0,5,1
+010130,ST VINCENT'S ST CLAIR,AL,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,0,5,0
+010131,CRESTWOOD MEDICAL CENTER,AL,Acute Care Hospitals,Proprietary,True,2.0,1,6,1
+010138,HILL HOSPITAL OF SUMTER COUNTY,AL,Acute Care Hospitals,Government - Hospital District or Authority,True,,Not Available,Not Available,Not Available
+010139,BROOKWOOD BAPTIST MEDICAL CENTER,AL,Acute Care Hospitals,Proprietary,True,2.0,0,6,2
+010144,SPRINGHILL MEDICAL CENTER,AL,Acute Care Hospitals,Proprietary,True,2.0,0,6,3
+010148,EVERGREEN MEDICAL CENTER,AL,Acute Care Hospitals,Proprietary,True,2.0,0,5,0
+010149,BAPTIST MEDICAL CENTER EAST,AL,Acute Care Hospitals,Government - Hospital District or Authority,True,4.0,0,5,1
+01014F,BIRMINGHAM VA MEDICAL CENTER,AL,Acute Care - Veterans Administration,Veterans Health Administration,True,5.0,0,6,0
+010150,THE HEALTH CARE AUTHORITY OF THE CITY OF GREENVILLE- LV STABLER HOSPITAL,AL,Acute Care Hospitals,Proprietary,True,,0,3,0
+010157,NORTH ALABAMA SHOALS HOSPITAL,AL,Acute Care Hospitals,Proprietary,True,,0,2,0
+010158,RUSSELLVILLE HOSPITAL,AL,Acute Care Hospitals,Proprietary,True,2.0,0,6,0
+010164,COOSA VALLEY MEDICAL CENTER,AL,Acute Care Hospitals,Government - Hospital District or Authority,True,3.0,0,7,1
+010168,JACK HUGHSTON MEMORIAL HOSPITAL,AL,Acute Care Hospitals,Government - State,True,,0,4,0
+010169,ATMORE COMMUNITY HOSPITAL,AL,Acute Care Hospitals,Government - Hospital District or Authority,True,,0,4,0
+010173,ST VINCENT'S CHILTON,AL,Acute Care Hospitals,Voluntary non-profit - Church,True,,0,3,0
+01019F,VA CENTRAL ALABAMA HEALTHCARE SYSTEM - MONTGOMERY,AL,Acute Care - Veterans Administration,Veterans Health Administration,True,5.0,2,2,0
+01021F,TUSCALOOSA VA MEDICAL CENTER,AL,Acute Care - Veterans Administration,Veterans Health Administration,False,,Not Available,Not Available,Not Available
+010779,BULLOCK COUNTY HOSPITAL,AL,Rural Emergency Hospital,Proprietary,True,,Not Available,Not Available,Not Available
+010780,EAMC - LANIER,AL,Rural Emergency Hospital,Government - Hospital District or Authority,True,,Not Available,Not Available,Not Available
+011300,WASHINGTON COUNTY HOSPITAL,AL,Critical Access Hospitals,Government - Local,True,,0,1,0
+011302,RED BAY HOSPITAL,AL,Critical Access Hospitals,Government - Hospital District or Authority,True,,0,1,0
+011304,OCHSNER CHOCTAW GENERAL,AL,Critical Access Hospitals,Voluntary non-profit - Private,True,,Not Available,Not Available,Not Available
+011305,ST VINCENTS BLOUNT,AL,Critical Access Hospitals,Voluntary non-profit - Private,False,,0,3,1
+011306,TANNER MEDICAL CENTER-EAST ALABAMA,AL,Critical Access Hospitals,Government - Hospital District or Authority,True,,0,3,0
+011307,MEDICAL CENTER BARBOUR,AL,Critical Access Hospitals,Government - Hospital District or Authority,True,,Not Available,Not Available,Not Available
+011308,CRENSHAW COMMUNITY HOSPITAL,AL,Critical Access Hospitals,Government - Hospital District or Authority,True,,Not Available,Not Available,Not Available
+011309,WIREGRASS MEDICAL CENTER,AL,Critical Access Hospitals,Government - Hospital District or Authority,True,,Not Available,Not Available,Not Available
+013300,THE CHILDREN'S HOSPITAL OF ALABAMA,AL,Childrens,Voluntary non-profit - Private,True,,Not Available,Not Available,Not Available
+013301,USA HEALTH CHILDREN'S & WOMEN'S HOSPITAL,AL,Childrens,Government - State,True,,Not Available,Not Available,Not Available
+014000,HILL CREST BEHAVIORAL HEALTH SERVICES,AL,Psychiatric,Proprietary,False,,Not Available,Not Available,Not Available
+014006,MOUNTAIN VIEW HOSPITAL,AL,Psychiatric,Proprietary,False,,Not Available,Not Available,Not Available
+014007,BRYCE HOSPITAL,AL,Psychiatric,Government - State,False,,Not Available,Not Available,Not Available
+014012,MARY S HARPER GERIATRIC PSYCHIATRY CENTER,AL,Psychiatric,Government - State,True,,Not Available,Not Available,Not Available
+014014,BAYPOINTE BEHAVIORAL HEALTH,AL,Psychiatric,Voluntary non-profit - Other,True,,Not Available,Not Available,Not Available
+014015,BEACON CHILDREN'S HOSPITAL,AL,Psychiatric,Proprietary,False,,Not Available,Not Available,Not Available
+014016,"SANCTUARY AT THE WOODLANDS, THE",AL,Psychiatric,Proprietary,False,,Not Available,Not Available,Not Available
+014017,EASTPOINTE HOSPITAL,AL,Psychiatric,Voluntary non-profit - Other,False,,Not Available,Not Available,Not Available
+014018,UNITY PSYCHIATRIC CARE - HUNTSVILLE,AL,Psychiatric,Proprietary,False,,Not Available,Not Available,Not Available
+020001,PROVIDENCE ALASKA MEDICAL CENTER,AK,Acute Care Hospitals,Voluntary non-profit - Church,True,3.0,1,9,1
+020006,MAT-SU REGIONAL MEDICAL CENTER,AK,Acute Care Hospitals,Voluntary non-profit - Other,True,3.0,1,9,0
+020008,BARTLETT REGIONAL HOSPITAL,AK,Acute Care Hospitals,Government - Local,True,5.0,0,9,0
+020012,FAIRBANKS MEMORIAL HOSPITAL,AK,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,2,6,0
+020017,ALASKA REGIONAL HOSPITAL,AK,Acute Care Hospitals,Proprietary,True,2.0,0,6,3
+020018,YUKON KUSKOKWIM DELTA REG HOSPITAL,AK,Acute Care Hospitals,Tribal,True,,0,3,0
+020024,CENTRAL PENINSULA GENERAL HOSPITAL,AK,Acute Care Hospitals,Voluntary non-profit - Other,True,1.0,0,7,2
+020026,ALASKA NATIVE MEDICAL CENTER,AK,Acute Care Hospitals,Government - Federal,True,3.0,0,7,0
+02013F,673rd Medical Group (Joint Base Elmendorf-Richardson),AK,Acute Care - Department of Defense,Department of Defense,True,,Not Available,Not Available,Not Available
+02014F,Bassett ACH (FT Wainwright),AK,Acute Care - Department of Defense,Department of Defense,True,,Not Available,Not Available,Not Available
+021301,PROVIDENCE VALDEZ MEDICAL CENTER,AK,Critical Access Hospitals,Government - Local,True,,Not Available,Not Available,Not Available
+021302,PROVIDENCE SEWARD HOSPITAL,AK,Critical Access Hospitals,Government - Local,True,,Not Available,Not Available,Not Available
+021304,PETERSBURG MEDICAL CENTER,AK,Critical Access Hospitals,Government - Local,True,,0,1,0
+021305,SEARHC WRANGELL MEDICAL CENTER-CAH,AK,Critical Access Hospitals,Tribal,True,,0,1,0
+021306,PROVIDENCE KODIAK ISLAND MEDICAL CTR,AK,Critical Access Hospitals,Voluntary non-profit - Church,True,,0,1,0
+021307,CORDOVA COMMUNITY MEDICAL CENTER,AK,Critical Access Hospitals,Government - Local,True,,Not Available,Not Available,Not Available
+021308,NORTON SOUND REGIONAL HOSPITAL,AK,Critical Access Hospitals,Tribal,True,,0,3,0
+021309,BRISTOL BAY AREA HEALTH CORPORATION,AK,Critical Access Hospitals,Voluntary non-profit - Private,True,,0,1,0
+021310,MANIILAQ HEALTH CENTER,AK,Critical Access Hospitals,Tribal,True,,Not Available,Not Available,Not Available
+021311,PEACEHEALTH KETCHIKAN MEDICAL CENTER,AK,Critical Access Hospitals,Voluntary non-profit - Church,True,,1,3,0
+021312,SAMUEL SIMMONDS MEMORIAL HOSPITAL,AK,Critical Access Hospitals,Tribal,True,,0,3,0
+021313,SOUTH PENINSULA HOSPITAL,AK,Critical Access Hospitals,Voluntary non-profit - Private,True,,0,4,0
+021314,SOUTHEAST ALASKA REGIONAL HEALTH CONSORTIUM,AK,Critical Access Hospitals,Voluntary non-profit - Private,True,3.0,0,4,0
+024001,NORTH STAR HOSPITAL,AK,Psychiatric,Proprietary,True,,Not Available,Not Available,Not Available
+024002,ALASKA PSYCHIATRIC INSTITUTE,AK,Psychiatric,Government - State,False,,Not Available,Not Available,Not Available
+030002,BANNER - UNIVERSITY MEDICAL CENTER PHOENIX,AZ,Acute Care Hospitals,Voluntary non-profit - Other,True,3.0,1,8,1
+030006,TUCSON MEDICAL CENTER,AZ,Acute Care Hospitals,Voluntary non-profit - Private,True,2.0,0,8,3
+030007,VERDE VALLEY MEDICAL CENTER,AZ,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,0,9,0
+030010,ST. MARY'S HOSPITAL,AZ,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,1,6,1
+030011,ST JOSEPH'S HOSPITAL,AZ,Acute Care Hospitals,Voluntary non-profit - Other,True,2.0,0,8,0
+030012,YAVAPAI REGIONAL MEDICAL CENTER,AZ,Acute Care Hospitals,Voluntary non-profit - Private,True,2.0,0,10,1
+030013,YUMA REGIONAL MEDICAL CENTER,AZ,Acute Care Hospitals,Voluntary non-profit - Private,True,2.0,0,10,1
+030014,HONOR HEALTH JOHN C. LINCOLN MEDICAL CENTER,AZ,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,0,9,1
+030016,BANNER CASA GRANDE MEDICAL CENTER,AZ,Acute Care Hospitals,Voluntary non-profit - Other,True,2.0,0,6,1
+030022,VALLEYWISE HEALTH MEDICAL CENTER,AZ,Acute Care Hospitals,Government - Local,False,3.0,0,3,0
+030023,FLAGSTAFF MEDICAL CENTER,AZ,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,0,11,0
+030024,ST JOSEPHS HOSPITAL AND MEDICAL CENTER,AZ,Acute Care Hospitals,Voluntary non-profit - Church,True,3.0,0,10,0
+030030,ABRAZO CENTRAL CAMPUS,AZ,Acute Care Hospitals,Physician,True,2.0,0,6,0
+030036,CHANDLER REGIONAL MEDICAL CENTER,AZ,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,0,10,0
+030037,HONORHEALTH TEMPE MEDICAL CENTER,AZ,Acute Care Hospitals,Proprietary,True,,0,3,0
+030038,HONORHEALTH SCOTTSDALE OSBORN MEDICAL CENTER,AZ,Acute Care Hospitals,Proprietary,True,3.0,0,7,1
+030043,CANYON VISTA MEDICAL CENTER,AZ,Acute Care Hospitals,Voluntary non-profit - Other,True,2.0,0,7,1
+030055,KINGMAN REGIONAL MEDICAL CENTER,AZ,Acute Care Hospitals,Government - Hospital District or Authority,True,4.0,0,10,0
+030061,BANNER BOSWELL MEDICAL CENTER,AZ,Acute Care Hospitals,Voluntary non-profit - Other,True,3.0,0,7,2
+030062,SUMMIT HEALTHCARE REGIONAL MEDICAL CENTER,AZ,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,0,9,0
+030064,BANNER - UNIVERSITY MEDICAL CENTER TUCSON CAMPUS,AZ,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,0,10,0
+030065,BANNER DESERT MEDICAL CENTER,AZ,Acute Care Hospitals,Voluntary non-profit - Private,True,2.0,0,7,1
+030069,HAVASU REGIONAL MEDICAL CENTER,AZ,Acute Care Hospitals,Proprietary,True,3.0,0,10,1
+030071,FORT DEFIANCE INDIAN HOSPITAL,AZ,Acute Care Hospitals,Tribal,True,,0,3,0
+030073,TUBA CITY REGIONAL HEALTH CARE CORPORATION,AZ,Acute Care Hospitals,Voluntary non-profit - Other,False,,0,2,0
+030074,SELLS HOSPITAL,AZ,Acute Care Hospitals,Tribal,True,,Not Available,Not Available,Not Available
+030078,PHOENIX INDIAN MEDICAL CENTER,AZ,Acute Care Hospitals,Government - Federal,False,,0,1,0
+030083,ABRAZO SCOTTSDALE CAMPUS,AZ,Acute Care Hospitals,Proprietary,True,2.0,1,3,1
+030084,CHINLE COMPREHENSIVE HEALTH CARE FACILITY,AZ,Acute Care Hospitals,Government - Federal,True,,0,2,1
+030085,NORTHWEST MEDICAL CENTER,AZ,Acute Care Hospitals,Proprietary,True,2.0,0,10,0
+030087,HONORHEALTH SCOTTSDALE SHEA MEDICAL CENTER,AZ,Acute Care Hospitals,Proprietary,True,3.0,0,11,0
+030088,BANNER BAYWOOD MEDICAL CENTER,AZ,Acute Care Hospitals,Voluntary non-profit - Private,True,2.0,0,8,0
+030089,BANNER THUNDERBIRD MEDICAL CENTER,AZ,Acute Care Hospitals,Government - Hospital District or Authority,False,3.0,0,10,0
+030092,HONORHEALTH DEER VALLEY MEDICAL CENTER,AZ,Acute Care Hospitals,Voluntary non-profit - Private,True,2.0,0,8,1
+030093,BANNER DEL E. WEBB MEDICAL CENTER,AZ,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,1,7,2
+030094,ABRAZO ARROWHEAD HOSPITAL,AZ,Acute Care Hospitals,Proprietary,True,2.0,0,8,1
+030101,WESTERN ARIZONA REGIONAL MEDICAL CENTER,AZ,Acute Care Hospitals,Proprietary,True,2.0,1,6,0
+030103,MAYO CLINIC HOSPITAL,AZ,Acute Care Hospitals,Voluntary non-profit - Private,True,5.0,2,9,0
+030105,BANNER HEART HOSPITAL,AZ,Acute Care Hospitals,Voluntary non-profit - Private,False,3.0,1,5,0
+030107,ARIZONA SPINE AND JOINT HOSPITAL,AZ,Acute Care Hospitals,Physician,False,,1,1,1
+030108,THE CORE INSTITUTE SPECIALTY HOSP,AZ,Acute Care Hospitals,Physician,False,,0,3,0
+030110,ABRAZO WEST CAMPUS,AZ,Acute Care Hospitals,Proprietary,True,2.0,0,7,0
+030111,BANNER-UNIVERSITY MEDICAL CENTER SOUTH CAMPUS,AZ,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,0,5,0
+030112,ARIZONA ORTHOPEDIC AND SURGICAL SPECIALTY HOSPITAL,AZ,Acute Care Hospitals,Proprietary,False,,0,1,2
+030113,WHITERIVER PHS INDIAN HOSPITAL,AZ,Acute Care Hospitals,Government - Federal,False,,0,2,0
+030114,ORO VALLEY HOSPITAL,AZ,Acute Care Hospitals,Proprietary,True,3.0,0,8,0
+030115,BANNER ESTRELLA MEDICAL CENTER,AZ,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,1,6,1
+030117,VALLEY VIEW MEDICAL CENTER,AZ,Acute Care Hospitals,Proprietary,True,2.0,0,6,0
+030119,MERCY GILBERT MEDICAL CENTER,AZ,Acute Care Hospitals,Voluntary non-profit - Church,True,5.0,0,10,0
+030121,HONORHEALTH MOUNTAIN VISTA MEDICAL CENTER,AZ,Acute Care Hospitals,Proprietary,True,2.0,1,6,1
+030122,BANNER GATEWAY MEDICAL CENTER,AZ,Acute Care Hospitals,Voluntary non-profit - Other,True,4.0,0,8,0
+030123,HONORHEALTH SCOTTSDALE THOMPSON PEAK MED CTR,AZ,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,0,8,0
+03012F,PHOENIX VA MEDICAL CENTER,AZ,Acute Care - Veterans Administration,Veterans Health Administration,True,5.0,2,4,0
+030130,BANNER IRONWOOD MEDICAL CENTER,AZ,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,0,5,1
+030134,BANNER GOLDFIELD MEDICAL CENTER,AZ,Acute Care Hospitals,Voluntary non-profit - Other,True,,0,3,0
+030136,DIGNITY HEALTH - ARIZONA GENERAL HOSPITAL,AZ,Acute Care Hospitals,Proprietary,False,,Not Available,Not Available,Not Available
+030138,WESTERN REGIONAL MEDICAL CENTER,AZ,Acute Care Hospitals,Proprietary,False,5.0,1,4,0
+030139,DIGNITY HEALTH ARIZONA GENERAL HOSPITAL,AZ,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,0,5,0
+03013F,VA S. ARIZONA HEALTHCARE SYSTEM,AZ,Acute Care - Veterans Administration,Veterans Health Administration,True,4.0,0,6,0
+030146,HONORHEALTH SONORAN CROSSING MEDICAL CENTER,AZ,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,0,5,0
+030147,BANNER OCOTILLO MEDICAL CENTER,AZ,Acute Care Hospitals,Voluntary non-profit - Private,True,2.0,0,5,1
+030148,NORTHWEST MEDICAL CENTER SAHUARITA,AZ,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,0,6,0
+030152,EXCEPTIONAL COMMUNITY HOSPITAL - MARICOPA,AZ,Acute Care Hospitals,Proprietary,True,,Not Available,Not Available,Not Available
+030153,EAST VALLEY ER & HOSPITAL,AZ,Acute Care Hospitals,Proprietary,True,,Not Available,Not Available,Not Available
+030154,EXCEPTIONAL COMMUNITY HOSPITAL YUMA,AZ,Acute Care Hospitals,Proprietary,True,,Not Available,Not Available,Not Available
+030155,EXCEPTIONAL COMMUNITY HOSPITAL BULLHEAD CITY,AZ,Acute Care Hospitals,Proprietary,True,,Not Available,Not Available,Not Available
+03033F,VA NORTHERN ARIZONA HEALTHCARE SYSTEM,AZ,Acute Care - Veterans Administration,Veterans Health Administration,True,5.0,1,3,0
+031300,WICKENBURG COMMUNITY HOSPITAL,AZ,Critical Access Hospitals,Voluntary non-profit - Other,True,,0,2,0
+031301,BENSON HOSPITAL,AZ,Critical Access Hospitals,Voluntary non-profit - Private,True,,0,1,0
+031302,"NORTHERN COCHISE COMMUNITY HOSPITAL, INC.",AZ,Critical Access Hospitals,Voluntary non-profit - Private,True,,0,2,0
+031304,PAGE HOSPITAL,AZ,Critical Access Hospitals,Government - Hospital District or Authority,True,,0,1,0
+031305,HOPI HEALTH CARE CENTER,AZ,Critical Access Hospitals,Tribal,False,,0,1,0
+031307,PARKER INDIAN HEALTH CENTER,AZ,Critical Access Hospitals,Government - Federal,True,,Not Available,Not Available,Not Available
+031308,HUHU KAM MEMORIAL HOSPITAL,AZ,Critical Access Hospitals,Government - Federal,True,,Not Available,Not Available,Not Available
+031309,SAGE MEMORIAL HOSPITAL,AZ,Critical Access Hospitals,Voluntary non-profit - Private,False,,0,2,0
+031311,LITTLE COLORADO MEDICAL CENTER,AZ,Critical Access Hospitals,Voluntary non-profit - Private,True,,0,2,1
+031312,COPPER QUEEN COMMUNITY HOSPITAL,AZ,Critical Access Hospitals,Voluntary non-profit - Private,True,,0,1,0
+031313,HOLY CROSS HOSPITAL,AZ,Critical Access Hospitals,Proprietary,True,,Not Available,Not Available,Not Available
+031314,COBRE VALLEY REGIONAL MEDICAL CENTER,AZ,Critical Access Hospitals,Voluntary non-profit - Private,True,3.0,0,9,0
+031315,WHITE MOUNTAIN REGIONAL MEDICAL CENTER,AZ,Critical Access Hospitals,Voluntary non-profit - Private,True,,0,3,0
+031317,LA PAZ REGIONAL HOSPITAL,AZ,Critical Access Hospitals,Voluntary non-profit - Private,True,,0,2,0
+031318,BANNER PAYSON MEDICAL CENTER,AZ,Critical Access Hospitals,Voluntary non-profit - Other,False,4.0,0,6,0
+031319,MT. GRAHAM REGIONAL MEDICAL CENTER,AZ,Critical Access Hospitals,Government - Hospital District or Authority,True,,0,3,0
+031320,SAN CARLOS APACHE HEALTHCARE CORPORATION,AZ,Critical Access Hospitals,Tribal,True,,Not Available,Not Available,Not Available
+033302,PHOENIX CHILDREN'S HOSPITAL,AZ,Childrens,Voluntary non-profit - Private,False,,Not Available,Not Available,Not Available
+034004,BANNER BEHAVIORAL HEALTH HOSPITAL,AZ,Psychiatric,Voluntary non-profit - Private,False,,Not Available,Not Available,Not Available
+034013,"ST. LUKE'S BEHAVIORAL HOSPITAL, LP",AZ,Psychiatric,Proprietary,False,,Not Available,Not Available,Not Available
+034020,HAVEN BEHAVIORAL HOSPITAL OF PHOENIX,AZ,Psychiatric,Proprietary,False,,Not Available,Not Available,Not Available
+034021,ARIZONA STATE HOSPITAL,AZ,Psychiatric,Government - State,False,,Not Available,Not Available,Not Available
+034022,SONORA BEHAVIORAL HEALTH HOSPITAL,AZ,Psychiatric,Proprietary,True,,Not Available,Not Available,Not Available
+034023,THE GUIDANCE CENTER,AZ,Psychiatric,Voluntary non-profit - Private,False,,Not Available,Not Available,Not Available
+034024,AURORA BEHAVIORAL HEALTH SYSTEM,AZ,Psychiatric,Proprietary,False,,Not Available,Not Available,Not Available
+034025,THE HEALING PLACE,AZ,Psychiatric,Proprietary,False,,Not Available,Not Available,Not Available
+034026,VALLEY HOSPITAL,AZ,Psychiatric,Proprietary,False,,Not Available,Not Available,Not Available
+034027,CHANGEPOINT PSYCHIATRIC HOSPITAL,AZ,Psychiatric,Voluntary non-profit - Private,False,,Not Available,Not Available,Not Available
+034028,AURORA BEHAVIORAL HEALTHCARE-TEMPE,AZ,Psychiatric,Proprietary,False,,Not Available,Not Available,Not Available
+034029,OASIS BEHAVIORAL HEALTH HOSPITAL,AZ,Psychiatric,Proprietary,False,,Not Available,Not Available,Not Available
+034030,PALO VERDE BEHAVIORAL HEALTH,AZ,Psychiatric,Voluntary non-profit - Private,True,,Not Available,Not Available,Not Available
+034031,QUAIL RUN BEHAVIORAL HEALTH,AZ,Psychiatric,Voluntary non-profit - Other,False,,Not Available,Not Available,Not Available
+034032,COPPER SPRINGS EAST- GILBERT,AZ,Psychiatric,Proprietary,True,,Not Available,Not Available,Not Available
+034033,EL DORADO SPRINGS,AZ,Psychiatric,Proprietary,False,,Not Available,Not Available,Not Available
+034034,DESTINY SPRINGS HEALTHCARE,AZ,Psychiatric,Physician,False,,Not Available,Not Available,Not Available
+034035,AVENIR BEHAVIORAL HEALTH CENTER,AZ,Psychiatric,Proprietary,False,,Not Available,Not Available,Not Available
+034038,"PHOENIX MEDICAL PSYCHIATRIC HOSPITAL, LLC",AZ,Psychiatric,Proprietary,False,,Not Available,Not Available,Not Available
+034040,VIA LINDA BEHAVIORAL HOSPITAL,AZ,Psychiatric,Proprietary,False,,Not Available,Not Available,Not Available
+034041,AGAVE RIDGE BEHAVIORAL HOSPITAL,AZ,Psychiatric,Proprietary,False,,Not Available,Not Available,Not Available
+040001,SILOAM SPRINGS REGIONAL HOSPITAL,AR,Acute Care Hospitals,Proprietary,True,3.0,0,5,0
+040002,JOHNSON REGIONAL MEDICAL CENTER,AR,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,0,6,0
+040004,WASHINGTON REGIONAL MEDICAL CENTER,AR,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,3,8,0
+040007,CHI-ST VINCENT INFIRMARY,AR,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,1,8,1
+040010,MERCY HOSPITAL NORTHWEST ARKANSAS,AR,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,1,7,0
+040011,CHAMBERS MEMORIAL HOSPITAL,AR,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,0,5,0
+040014,WHITE COUNTY MEDICAL CENTER,AR,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,0,9,1
+040016,UAMS MEDICAL CENTER,AR,Acute Care Hospitals,Government - State,True,2.0,1,7,2
+040017,NORTH ARKANSAS REGIONAL MEDICAL CENTER,AR,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,1,8,0
+040018,BAPTIST HEALTH - VAN BUREN,AR,Acute Care Hospitals,Voluntary non-profit - Private,True,,Not Available,Not Available,Not Available
+040019,FORREST CITY MEDICAL CENTER,AR,Acute Care Hospitals,Proprietary,True,,0,5,0
+040020,ST BERNARDS MEDICAL CENTER,AR,Acute Care Hospitals,Voluntary non-profit - Private,True,1.0,0,7,3
+040022,NORTHWEST MEDICAL CENTER-SPRINGDALE,AR,Acute Care Hospitals,Proprietary,True,2.0,1,6,0
+040026,CHI ST. VINCENT HOSPITAL HOT SPRINGS,AR,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,0,11,0
+040027,BAXTER REGIONAL MEDICAL CENTER,AR,Acute Care Hospitals,Voluntary non-profit - Private,True,1.0,1,9,1
+040029,"CONWAY REGIONAL MEDICAL CENTER, INC",AR,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,0,9,1
+040036,BAPTIST HEALTH MEDICAL CENTER NORTH LITTLE ROCK,AR,Acute Care Hospitals,Voluntary non-profit - Private,True,1.0,0,9,0
+040039,ARKANSAS METHODIST MEDICAL CENTER,AR,Acute Care Hospitals,Voluntary non-profit - Private,True,2.0,0,7,1
+040041,ST MARYS REGIONAL MEDICAL CENTER,AR,Acute Care Hospitals,Proprietary,True,3.0,0,8,0
+040050,OUACHITA COUNTY MEDICAL CENTER,AR,Acute Care Hospitals,Voluntary non-profit - Private,True,1.0,0,3,1
+040051,BAPTIST HEALTH MEDICAL CENTER-DREW COUNTY,AR,Acute Care Hospitals,Voluntary non-profit - Private,True,2.0,0,6,0
+040055,BAPTIST HEALTH - FORT SMITH,AR,Acute Care Hospitals,Voluntary non-profit - Private,True,2.0,0,10,0
+040062,MERCY HOSPITAL FORT SMITH,AR,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,0,11,0
+040067,MAGNOLIA HOSPITAL,AR,Acute Care Hospitals,Government - Local,True,2.0,0,5,0
+040069,GREAT RIVER MEDICAL CENTER,AR,Acute Care Hospitals,Government - Local,True,1.0,0,4,1
+040071,JEFFERSON REGIONAL MEDICAL CENTER,AR,Acute Care Hospitals,Voluntary non-profit - Private,True,2.0,0,7,3
+040072,BAPTIST HEALTH MEDICAL CENTER-STUTTGART,AR,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,0,6,0
+040076,BAPTIST HEALTH MEDICAL CENTER-HOT SPRINGS COUNTY,AR,Acute Care Hospitals,Voluntary non-profit - Private,True,,0,2,0
+040078,NATIONAL PARK MEDICAL CENTER,AR,Acute Care Hospitals,Proprietary,True,1.0,0,7,2
+040084,SALINE MEMORIAL HOSPITAL,AR,Acute Care Hospitals,Proprietary,True,2.0,0,8,0
+040088,SOUTH ARKANSAS REGIONAL HOSPITAL LLC,AR,Acute Care Hospitals,Proprietary,True,2.0,2,6,0
+04009F,FAYETTEVILLE AR VA MEDICAL CENTER,AR,Acute Care - Veterans Administration,Veterans Health Administration,True,5.0,2,2,0
+04010F,VA CENTRAL AR. VETERANS HEALTHCARE SYSTEM LR,AR,Acute Care - Veterans Administration,Veterans Health Administration,True,3.0,0,3,2
+040114,BAPTIST HEALTH MEDICAL CENTER-LITTLE ROCK,AR,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,1,6,2
+040118,"BAPTIST MEMORIAL HOSPITAL JONESBORO, INC.",AR,Acute Care Hospitals,Voluntary non-profit - Private,True,2.0,0,9,2
+040119,WHITE RIVER MEDICAL CENTER,AR,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,0,10,0
+040132,LEO N LEVI MEMORIAL HOSPITAL,AR,Acute Care Hospitals,Voluntary non-profit - Private,True,,Not Available,Not Available,Not Available
+040134,"ARKANSAS HEART HOSPITAL, LLC",AR,Acute Care Hospitals,Proprietary,True,4.0,0,8,0
+040137,ST VINCENT MEDICAL CENTER/NORTH,AR,Acute Care Hospitals,Voluntary non-profit - Church,True,4.0,0,5,0
+040147,ARKANSAS SURGICAL HOSPITAL,AR,Acute Care Hospitals,Physician,True,,1,1,1
+040153,SOUTHWEST REGIONAL MEDICAL CENTER LLC,AR,Acute Care Hospitals,Proprietary,True,,0,3,0
+040154,BAPTIST HEALTH MEDICAL CENTER- CONWAY,AR,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,0,7,1
+040156,"BAPTIST MEMORIAL HOSPITAL-CRITTENDEN, INC",AR,Acute Care Hospitals,Voluntary non-profit - Private,True,,0,4,0
+040161,ARKANSAS HEART HOSPITAL-ENCORE,AR,Acute Care Hospitals,Proprietary,True,3.0,0,5,1
+040164,UNITY HEALTH - JACKSONVILLE,AR,Acute Care Hospitals,Voluntary non-profit - Private,True,,Not Available,Not Available,Not Available
+040779,ST BERNARDS FIVE RIVERS MEDICAL CENTER,AR,Rural Emergency Hospital,Government - Local,True,,Not Available,Not Available,Not Available
+040780,EUREKA SPRINGS HOSPITAL COMMISSION,AR,Rural Emergency Hospital,Government - Local,True,,Not Available,Not Available,Not Available
+040781,HELENA REGIONAL MEDICAL CENTER,AR,Rural Emergency Hospital,Proprietary,True,,Not Available,Not Available,Not Available
+040782,SOUTH MISSISSIPPI COUNTY REGIONAL MEDICAL CENTER,AR,Rural Emergency Hospital,Government - State,True,,Not Available,Not Available,Not Available
+040783,"DEWITT HOSPITAL & NURSING HOME, INC",AR,Rural Emergency Hospital,Voluntary non-profit - Private,True,,Not Available,Not Available,Not Available
+041300,MERCY HOSPITAL PARIS,AR,Critical Access Hospitals,Voluntary non-profit - Private,True,,0,3,0
+041302,DARDANELLE REGIONAL MEDICAL CENTER,AR,Critical Access Hospitals,Government - Local,True,,0,2,0
+041303,MERCY HOSPITAL OZARK,AR,Critical Access Hospitals,Voluntary non-profit - Private,True,,0,1,0
+041305,MERCY HOSPITAL WALDRON,AR,Critical Access Hospitals,Voluntary non-profit - Private,True,,0,2,0
+041306,IZARD REGIONAL HOSPITAL LLC,AR,Critical Access Hospitals,Voluntary non-profit - Private,True,,0,2,0
+041307,CROSSRIDGE COMMUNITY HOSPITAL,AR,Critical Access Hospitals,Voluntary non-profit - Private,True,3.0,0,4,1
+041308,MCGEHEE HOSPITAL,AR,Critical Access Hospitals,Voluntary non-profit - Private,True,,0,1,0
+041309,LAWRENCE MEMORIAL HOSPITAL,AR,Critical Access Hospitals,Voluntary non-profit - Private,True,,0,1,0
+041310,STONE COUNTY MEDICAL CENTER,AR,Critical Access Hospitals,Voluntary non-profit - Private,True,,0,4,0
+041311,HOWARD MEMORIAL HOSPITAL,AR,Critical Access Hospitals,Voluntary non-profit - Private,True,,0,4,0
+041312,BAPTIST HEALTH MEDICAL CENTER HEBER SPRINGS,AR,Critical Access Hospitals,Voluntary non-profit - Private,True,,0,4,1
+041313,OZARK HEALTH,AR,Critical Access Hospitals,Voluntary non-profit - Private,True,,0,4,0
+041317,DALLAS COUNTY MEDICAL CENTER,AR,Critical Access Hospitals,Government - Local,True,,0,1,0
+041318,MERCY HOSPITAL BOONEVILLE,AR,Critical Access Hospitals,Voluntary non-profit - Private,True,,0,3,0
+041320,LITTLE RIVER MEMORIAL HOSPITAL,AR,Critical Access Hospitals,Voluntary non-profit - Private,True,,Not Available,Not Available,Not Available
+041321,BAPTIST HEALTH MEDICAL CENTER-ARKADELPHIA,AR,Critical Access Hospitals,Voluntary non-profit - Private,True,,0,3,0
+041322,BAXTER HEALTH FULTON COUNTY HOSPITAL,AR,Critical Access Hospitals,Government - Local,True,,0,2,1
+041323,ASHLEY COUNTY MEDICAL CENTER,AR,Critical Access Hospitals,Voluntary non-profit - Private,True,3.0,0,3,1
+041324,CHI ST VINCENT MORRILTON,AR,Critical Access Hospitals,Voluntary non-profit - Church,True,,0,3,0
+041326,DELTA MEMORIAL HOSPITAL,AR,Critical Access Hospitals,Voluntary non-profit - Private,True,,0,2,0
+041327,BRADLEY COUNTY MEDICAL CENTER,AR,Critical Access Hospitals,Voluntary non-profit - Private,True,,0,3,0
+041328,CHICOT MEMORIAL MEDICAL CENTER,AR,Critical Access Hospitals,Voluntary non-profit - Private,True,,0,3,0
+041329,MERCY HOSPITAL BERRYVILLE,AR,Critical Access Hospitals,Voluntary non-profit - Private,True,,0,3,0
+041330,PIGGOTT COMMUNITY HOSPITAL,AR,Critical Access Hospitals,Government - Local,True,3.0,0,4,0
+041331,OZARKS COMMUNITY HOSPITAL OF GRAVETTE,AR,Critical Access Hospitals,Voluntary non-profit - Private,True,,0,1,0
+041332,UNITY HEALTH - NEWPORT,AR,Critical Access Hospitals,Voluntary non-profit - Private,True,,0,2,0
+041333,SEVIER COUNTY MEDICAL CENTER,AR,Critical Access Hospitals,Government - Local,True,,Not Available,Not Available,Not Available
+041334,MENA REGIONAL HEALTH SYSTEM,AR,Critical Access Hospitals,Voluntary non-profit - Other,True,,Not Available,Not Available,Not Available
+043300,ARKANSAS CHILDREN'S HOSPITAL,AR,Childrens,Voluntary non-profit - Private,True,,Not Available,Not Available,Not Available
+043301,"ARKANSAS CHILDREN'S NORTHWEST, INC",AR,Childrens,Voluntary non-profit - Private,True,,Not Available,Not Available,Not Available
+044004,VISTA HEALTH FAYETTEVILLE,AR,Psychiatric,Proprietary,False,,Not Available,Not Available,Not Available
+044005,BRIDGEWAY HOSPITAL,AR,Psychiatric,Proprietary,False,,Not Available,Not Available,Not Available
+044006,VALLEY BEHAVIORAL HEALTH SYSTEM,AR,Psychiatric,Proprietary,False,,Not Available,Not Available,Not Available
+044007,RIVENDELL BEHAVIORAL HEALTH SERVICES,AR,Psychiatric,Proprietary,False,,Not Available,Not Available,Not Available
+044011,ARKANSAS STATE HOSPITAL,AR,Psychiatric,Government - State,True,,Not Available,Not Available,Not Available
+044017,UNITED METHODIST BEHAVIORAL HOSPITAL,AR,Psychiatric,Voluntary non-profit - Private,False,,Not Available,Not Available,Not Available
+044019,SPRINGWOODS BEHAVIORAL HEALTH SERVICES,AR,Psychiatric,Proprietary,False,,Not Available,Not Available,Not Available
+044020,RIVERVIEW BEHAVIORAL HEALTH,AR,Psychiatric,Proprietary,False,,Not Available,Not Available,Not Available
+044021,PERIMETER BEHAVIORAL HOSPITAL OF WEST MEMPHIS,AR,Psychiatric,Voluntary non-profit - Church,False,,Not Available,Not Available,Not Available
+044022,CONWAY BEHAVIORAL HEALTH,AR,Psychiatric,Proprietary,False,,Not Available,Not Available,Not Available
+050002,ST ROSE HOSPITAL,CA,Acute Care Hospitals,Voluntary non-profit - Church,False,1.0,0,6,0
+050006,PROVIDENCE ST JOSEPH HOSPITAL,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,2,9,0
+050007,PENINSULA MEDICAL CENTER,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,5.0,1,10,0
+050008,CALIFORNIA PACIFIC MEDICAL CTR-DAVIES CAMPUS HOSP,CA,Acute Care Hospitals,Voluntary non-profit - Other,False,3.0,0,5,0
+050009,PROVIDENCE QUEEN OF THE VALLEY MEDICAL CENTER,CA,Acute Care Hospitals,Voluntary non-profit - Church,True,4.0,1,8,1
+050013,ADVENTIST HEALTH ST HELENA,CA,Acute Care Hospitals,Voluntary non-profit - Private,False,4.0,1,10,0
+050014,SUTTER AMADOR HOSPITAL,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,0,9,0
+050017,MERCY GENERAL HOSPITAL,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,0,7,2
+050022,RIVERSIDE COMMUNITY HOSPITAL,CA,Acute Care Hospitals,Proprietary,True,3.0,0,8,1
+050024,PARADISE VALLEY HOSPITAL,CA,Acute Care Hospitals,Proprietary,True,3.0,0,4,0
+050025,UC SAN DIEGO HEALTH HILLCREST - HILLCREST MED CTR,CA,Acute Care Hospitals,Voluntary non-profit - Other,True,5.0,1,8,2
+050026,GROSSMONT HOSPITAL,CA,Acute Care Hospitals,Government - Hospital District or Authority,True,3.0,0,8,1
+050028,MAD RIVER COMMUNITY HOSPITAL,CA,Acute Care Hospitals,Proprietary,True,3.0,0,6,0
+050030,OROVILLE HOSPITAL,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,1.0,0,4,6
+050036,BAKERSFIELD MEMORIAL HOSPITAL,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,2.0,0,9,1
+050038,SANTA CLARA VALLEY MEDICAL CENTER,CA,Acute Care Hospitals,Government - Local,True,3.0,0,11,0
+050039,ENLOE HEALTH,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,2.0,0,7,4
+050040,LAC/OLIVE VIEW-UCLA MEDICAL CENTER,CA,Acute Care Hospitals,Voluntary non-profit - Other,True,2.0,0,5,0
+050042,ST ELIZABETH COMMUNITY HOSPITAL,CA,Acute Care Hospitals,Voluntary non-profit - Church,False,4.0,0,8,0
+050043,ALTA BATES SUMMIT MEDICAL CENTER,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,5.0,2,9,0
+050045,EL CENTRO REGIONAL MEDICAL CENTER,CA,Acute Care Hospitals,Government - Local,True,1.0,0,7,1
+050047,CALIFORNIA PACIFIC MEDICAL CENTER- VAN NESS CAMPUS,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,0,9,1
+050054,SAN GORGONIO MEMORIAL HOSPITAL,CA,Acute Care Hospitals,Government - Hospital District or Authority,True,5.0,2,2,0
+050055,CALIFORNIA PACIFIC MEDICAL CENTER - MISSION BERNAL,CA,Acute Care Hospitals,Voluntary non-profit - Church,True,4.0,0,6,0
+050056,ANTELOPE VALLEY HOSPITAL,CA,Acute Care Hospitals,Government - Hospital District or Authority,True,1.0,0,6,2
+050057,KAWEAH HEALTH MEDICAL CENTER,CA,Acute Care Hospitals,Government - Hospital District or Authority,True,3.0,0,10,1
+050058,GLENDALE MEM HOSPITAL & HLTH CENTER,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,0,8,1
+050060,COMMUNITY REGIONAL MEDICAL CENTER,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,1.0,0,6,4
+050063,HOLLYWOOD PRESBYTERIAN MEDICAL CENTER,CA,Acute Care Hospitals,Proprietary,True,3.0,0,5,3
+050067,OAK VALLEY HOSPITAL DISTRICT,CA,Acute Care Hospitals,Government - Hospital District or Authority,True,,0,4,0
+050069,PROVIDENCE ST. JOSEPH HOSPITAL,CA,Acute Care Hospitals,Voluntary non-profit - Church,True,4.0,0,9,0
+050070,KAISER FOUNDATION HOSPITAL - SOUTH SAN FRANCISCO,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,5.0,0,1,0
+050071,KAISER FOUNDATION HOSPITAL-SANTA CLARA,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,0,2,0
+050072,KAISER FOUNDATION HOSPITAL - WALNUT CREEK,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,0,1,0
+050073,KAISER FOUNDATION HOSPITAL AND REHAB CENTER,CA,Acute Care Hospitals,Voluntary non-profit - Private,False,4.0,0,2,0
+050075,KAISER FOUNDATION HOSPITAL - OAKLAND/RICHMOND,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,2.0,0,4,0
+050076,KAISER FOUNDATION HOSPITAL - SAN FRANCISCO,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,0,1,0
+050077,SCRIPPS MERCY HOSPITAL,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,1,9,1
+050078,PROVIDENCE LITTLE CO OF MARY MED CTR SAN PEDRO,CA,Acute Care Hospitals,Voluntary non-profit - Private,False,4.0,0,6,0
+050082,ST JOHNS REGIONAL MEDICAL CENTER,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,0,10,1
+050084,ST JOSEPH'S MEDICAL CENTER OF STOCKTON,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,0,7,1
+050089,COMMUNITY HOSPITAL OF SAN BERNARDINO,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,0,3,0
+050090,SONOMA VALLEY HOSPITAL,CA,Acute Care Hospitals,Government - Hospital District or Authority,True,1.0,0,6,0
+050091,COMMUNITY HOSPITAL OF HUNTINGTON PARK,CA,Acute Care Hospitals,Proprietary,True,,0,3,0
+050093,SAINT AGNES MEDICAL CENTER,CA,Acute Care Hospitals,Voluntary non-profit - Church,True,2.0,0,7,2
+050099,SAN ANTONIO REGIONAL HOSPITAL,CA,Acute Care Hospitals,Voluntary non-profit - Other,True,3.0,0,8,0
+050100,SHARP MEMORIAL HOSPITAL,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,0,10,1
+050101,SUTTER SOLANO MEDICAL CENTER,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,0,9,0
+050102,PARKVIEW COMMUNITY HOSPITAL MEDICAL CENTER,CA,Acute Care Hospitals,Proprietary,True,2.0,0,3,2
+050103,ADVENTIST HEALTH WHITE MEMORIAL,CA,Acute Care Hospitals,Voluntary non-profit - Church,False,3.0,0,7,0
+050104,SAINT FRANCIS MEDICAL CENTER,CA,Acute Care Hospitals,Voluntary non-profit - Church,False,4.0,1,3,0
+050107,MARIAN REGIONAL MEDICAL CENTER,CA,Acute Care Hospitals,Voluntary non-profit - Church,True,2.0,0,10,1
+050108,"SUTTER MEDICAL CENTER, SACRAMENTO",CA,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,0,11,0
+050110,LOMPOC VALLEY MEDICAL CENTER,CA,Acute Care Hospitals,Government - Hospital District or Authority,True,1.0,0,6,1
+050112,SANTA MONICA - UCLA MED CTR & ORTHOPAEDIC HOSPITAL,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,1,8,1
+050113,SAN MATEO MEDICAL CENTER,CA,Acute Care Hospitals,Government - Local,True,,0,3,0
+050115,PALOMAR HEALTH DOWNTOWN CAMPUS,CA,Acute Care Hospitals,Government - Hospital District or Authority,True,2.0,1,8,0
+050116,NORTHRIDGE HOSPITAL MEDICAL CENTER,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,0,7,3
+050118,DOCTORS HOSPITAL OF MANTECA,CA,Acute Care Hospitals,Voluntary non-profit - Other,True,2.0,0,6,0
+050121,ADVENTIST HEALTH HANFORD,CA,Acute Care Hospitals,Voluntary non-profit - Church,True,2.0,0,7,0
+050122,DAMERON HOSPITAL,CA,Acute Care Hospitals,Voluntary non-profit - Other,True,3.0,0,8,0
+050124,USC VERDUGO HILLS HOSPITAL,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,1,5,1
+050125,REGIONAL MEDICAL CENTER OF SAN JOSE,CA,Acute Care Hospitals,Government - Federal,True,3.0,0,6,2
+050126,VALLEY PRESBYTERIAN HOSPITAL,CA,Acute Care Hospitals,Voluntary non-profit - Other,True,2.0,0,6,2
+050127,WOODLAND MEMORIAL HOSPITAL,CA,Acute Care Hospitals,Voluntary non-profit - Other,True,5.0,1,7,0
+050128,TRI-CITY MEDICAL CENTER,CA,Acute Care Hospitals,Government - Hospital District or Authority,True,2.0,1,8,0
+050129,ST BERNARDINE MEDICAL CENTER,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,1,6,0
+050131,NOVATO COMMUNITY HOSPITAL,CA,Acute Care Hospitals,Voluntary non-profit - Other,True,5.0,0,7,0
+050132,SAN GABRIEL VALLEY MEDICAL CENTER,CA,Acute Care Hospitals,Proprietary,True,4.0,0,6,0
+050133,ADVENTIST HEALTH AND RIDEOUT,CA,Acute Care Hospitals,Government - Federal,True,2.0,0,8,3
+050135,SOUTHERN CALIFORNIA HOSPITAL AT HOLLYWOOD,CA,Acute Care Hospitals,Proprietary,True,4.0,0,5,1
+050136,PETALUMA VALLEY HOSPITAL,CA,Acute Care Hospitals,Voluntary non-profit - Other,True,4.0,0,7,0
+050137,KAISER FOUNDATION HOSPITAL - PANORAMA CITY,CA,Acute Care Hospitals,Voluntary non-profit - Private,False,4.0,0,1,0
+050138,KAISER FOUNDATION HOSPITAL - LOS ANGELES,CA,Acute Care Hospitals,Voluntary non-profit - Other,False,4.0,0,1,0
+050139,KAISER FOUNDATION HOSPITAL - DOWNEY,CA,Acute Care Hospitals,Voluntary non-profit - Other,False,2.0,0,1,0
+050140,KAISER FOUNDATION HOSPITAL FONTANA/ONTARIO,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,0,2,0
+050145,COMMUNITY HOSPITAL OF THE MONTEREY PENINSULA,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,0,9,2
+050149,CALIFORNIA HOSPITAL MEDICAL CENTER LA,CA,Acute Care Hospitals,Voluntary non-profit - Other,True,3.0,0,6,0
+050150,SIERRA NEVADA MEMORIAL HOSPITAL,CA,Acute Care Hospitals,Voluntary non-profit - Other,True,3.0,0,9,0
+050152,SAINT FRANCIS MEMORIAL HOSPITAL,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,2.0,0,6,1
+050158,ENCINO HOSPITAL MEDICAL CENTER,CA,Acute Care Hospitals,Proprietary,False,2.0,0,3,0
+050159,VENTURA COUNTY MEDICAL CENTER,CA,Acute Care Hospitals,Government - Local,True,2.0,0,9,0
+05015F,60th Medical Group (Travis AFB),CA,Acute Care - Department of Defense,Department of Defense,True,,Not Available,Not Available,Not Available
+050167,SAN JOAQUIN GENERAL HOSPITAL,CA,Acute Care Hospitals,Government - Local,True,2.0,0,5,0
+050168,PROVIDENCE ST. JUDE MEDICAL CENTER,CA,Acute Care Hospitals,Voluntary non-profit - Church,True,4.0,0,11,0
+050169,PIH HEALTH HOSPITAL-WHITTIER,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,0,10,1
+050174,PROVIDENCE SANTA ROSA MEMORIAL HOSPITAL,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,2.0,0,9,2
+050179,EMANUEL MEDICAL CENTER,CA,Acute Care Hospitals,Proprietary,True,2.0,0,7,2
+050180,JOHN MUIR MEDICAL CENTER - WALNUT CREEK CAMPUS,CA,Acute Care Hospitals,Voluntary non-profit - Other,True,3.0,0,9,1
+050191,ST MARY MEDICAL CENTER,CA,Acute Care Hospitals,Voluntary non-profit - Church,True,4.0,0,5,1
+050192,ADVENTIST HEALTH REEDLEY,CA,Acute Care Hospitals,Voluntary non-profit - Private,False,,0,1,0
+050194,WATSONVILLE COMMUNITY HOSPITAL,CA,Acute Care Hospitals,Proprietary,True,1.0,0,4,2
+050195,WASHINGTON HOSPITAL,CA,Acute Care Hospitals,Government - Hospital District or Authority,True,3.0,1,7,3
+050197,SEQUOIA HOSPITAL,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,5.0,5,2,1
+050204,PALMDALE REGIONAL MEDICAL CENTER,CA,Acute Care Hospitals,Proprietary,True,3.0,1,6,0
+05020F,NH Camp Pendleton,CA,Acute Care - Department of Defense,Department of Defense,True,,Not Available,Not Available,Not Available
+050211,ALAMEDA HOSPITAL,CA,Acute Care Hospitals,Government - Hospital District or Authority,True,3.0,0,4,0
+050222,SHARP CHULA VISTA MEDICAL CENTER,CA,Acute Care Hospitals,Proprietary,True,4.0,0,10,1
+050224,HOAG MEMORIAL HOSPITAL PRESBYTERIAN,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,5.0,1,9,0
+050226,AHMC ANAHEIM REGIONAL MEDICAL CENTER,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,0,4,2
+050228,ZUCKERBERG SAN FRANCISCO GENERAL HOSP & TRAUMA CTR,CA,Acute Care Hospitals,Government - Local,True,1.0,0,6,3
+05022F,NMC San Diego,CA,Acute Care - Department of Defense,Department of Defense,True,,Not Available,Not Available,Not Available
+050230,GARDEN GROVE HOSPITAL & MEDICAL CENTER,CA,Acute Care Hospitals,Proprietary,True,3.0,0,4,1
+050231,POMONA VALLEY HOSPITAL MEDICAL CENTER,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,1,9,1
+050232,FRENCH HOSPITAL MEDICAL CENTER,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,5.0,1,8,0
+050234,SHARP CORONADO HOSPITAL AND HLTHCR CTR,CA,Acute Care Hospitals,Proprietary,True,5.0,0,6,0
+050235,PROVIDENCE SAINT JOSEPH MEDICAL CTR,CA,Acute Care Hospitals,Voluntary non-profit - Church,True,3.0,1,7,3
+050236,ADVENTIST HEALTH SIMI VALLEY,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,2.0,0,6,2
+050238,USC ARCADIA HOSPITAL,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,0,7,1
+050239,GLENDALE ADVENTIST MEDICAL CENTER,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,0,8,1
+050242,DOMINICAN HOSPITAL,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,5.0,1,9,1
+050243,DESERT REGIONAL MEDICAL CENTER,CA,Acute Care Hospitals,Proprietary,True,2.0,0,7,2
+050245,ARROWHEAD REGIONAL MEDICAL CENTER,CA,Acute Care Hospitals,Government - Local,True,2.0,0,6,0
+050248,NATIVIDAD MEDICAL CENTER,CA,Acute Care Hospitals,Government - Local,True,3.0,0,6,0
+050254,MARSHALL MEDICAL CENTER,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,1,8,0
+050257,GOOD SAMARITAN HOSPITAL,CA,Acute Care Hospitals,Proprietary,False,,1,2,0
+05025F,FRESNO VA MEDICAL CENTER (VA CENTRAL CALIFORNIA HEALTHCARE SYSTEM),CA,Acute Care - Veterans Administration,Veterans Health Administration,True,4.0,2,4,0
+050261,SIERRA VIEW MEDICAL CENTER,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,2.0,0,10,0
+050262,RONALD REAGAN UCLA MEDICAL CENTER,CA,Acute Care Hospitals,Government - State,True,4.0,0,8,2
+050272,REDLANDS COMMUNITY HOSPITAL,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,1,6,0
+050276,CONTRA COSTA REGIONAL MEDICAL CENTER,CA,Acute Care Hospitals,Government - Local,True,3.0,0,6,0
+050278,PROVIDENCE HOLY CROSS MEDICAL CENTER,CA,Acute Care Hospitals,Voluntary non-profit - Church,True,4.0,0,10,0
+050279,HI-DESERT MEDICAL CENTER,CA,Acute Care Hospitals,Government - Hospital District or Authority,True,,0,2,1
+05027F,VA LONG BEACH HEALTHCARE SYSTEM,CA,Acute Care - Veterans Administration,Veterans Health Administration,True,3.0,0,6,0
+050280,MERCY MEDICAL CENTER REDDING,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,2.0,2,7,2
+050281,ALHAMBRA HOSPITAL MEDICAL CENTER,CA,Acute Care Hospitals,Proprietary,False,3.0,0,2,1
+050283,STANFORD HEALTH CARE TRI-VALLEY,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,1,8,0
+050289,AHMC SETON MEDICAL CENTER,CA,Acute Care Hospitals,Voluntary non-profit - Church,True,1.0,0,5,2
+050290,SAINT JOHN'S HEALTH CENTER,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,1,9,1
+050291,SUTTER SANTA ROSA REGIONAL HOSPITAL,CA,Acute Care Hospitals,Voluntary non-profit - Other,True,4.0,1,8,1
+050292,RIVERSIDE UNIVERSITY HEALTH SYSTEM-MEDICAL CENTER,CA,Acute Care Hospitals,Government - Local,True,3.0,0,5,1
+050295,MERCY HOSPITAL,CA,Acute Care Hospitals,Voluntary non-profit - Other,True,3.0,0,5,1
+050298,BARSTOW COMMUNITY HOSPITAL,CA,Acute Care Hospitals,Proprietary,True,1.0,0,4,0
+050300,PROVIDENCE ST MARY MEDICAL CENTER,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,1.0,0,6,2
+050301,ADVENTIST HEALTH UKIAH VALLEY,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,1,7,1
+050305,ALTA BATES SUMMIT MEDICAL CENTER - ALTA BATES CAMP,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,1,8,0
+050308,EL CAMINO HOSPITAL,CA,Acute Care Hospitals,Government - Hospital District or Authority,True,4.0,1,10,0
+050309,SUTTER ROSEVILLE MEDICAL CENTER,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,2,8,0
+05030F,VA N CALIFORNIA HEALTHCARE SYSTEM,CA,Acute Care - Veterans Administration,Veterans Health Administration,True,4.0,0,4,0
+050313,SUTTER TRACY COMMUNITY HOSPITAL,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,1,5,0
+050315,KERN MEDICAL CENTER,CA,Acute Care Hospitals,Government - Hospital District or Authority,True,2.0,0,8,0
+05031F,PALO ALTO VA MEDICAL CENTER,CA,Acute Care - Veterans Administration,Veterans Health Administration,True,5.0,0,6,0
+050320,HIGHLAND HOSPITAL,CA,Acute Care Hospitals,Government - Hospital District or Authority,True,1.0,0,8,1
+050324,SCRIPPS MEMORIAL HOSPITAL LA JOLLA,CA,Acute Care Hospitals,Physician,True,5.0,1,8,0
+050327,LOMA LINDA UNIVERSITY MEDICAL CENTER,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,1,8,1
+050329,CORONA REGIONAL MEDICAL CENTER,CA,Acute Care Hospitals,Proprietary,True,3.0,0,5,1
+050334,SALINAS VALLEY MEMORIAL HOSPITAL,CA,Acute Care Hospitals,Voluntary non-profit - Other,True,4.0,1,9,0
+050335,ADVENTIST HEALTH SONORA,CA,Acute Care Hospitals,Voluntary non-profit - Church,False,3.0,1,8,1
+050336,ADVENTIST HEALTH LODI MEMORIAL,CA,Acute Care Hospitals,Voluntary non-profit - Other,True,3.0,1,5,0
+050342,PIONEERS MEMORIAL HEALTHCARE DISTRICT,CA,Acute Care Hospitals,Government - Hospital District or Authority,True,2.0,0,8,0
+050348,UCI HEALTH-ORANGE,CA,Acute Care Hospitals,Government - Local,True,4.0,2,9,0
+050350,ADVENTIST HEALTH WHITE MEMORIAL MONTEBELLO,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,2.0,0,4,1
+050351,TORRANCE MEMORIAL MEDICAL CENTER,CA,Acute Care Hospitals,Voluntary non-profit - Other,True,4.0,2,8,1
+050352,BARTON MEMORIAL HOSPITAL,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,1,4,0
+050353,PROVIDENCE LITTLE COMPANY OF MARY MED CTR TORRANCE,CA,Acute Care Hospitals,Voluntary non-profit - Church,False,4.0,0,7,1
+050357,GOLETA VALLEY COTTAGE HOSPITAL,CA,Acute Care Hospitals,Voluntary non-profit - Other,True,5.0,1,3,1
+050360,MARINHEALTH MEDICAL CENTER,CA,Acute Care Hospitals,Government - Hospital District or Authority,True,4.0,2,9,0
+050367,NORTHBAY MEDICAL CENTER,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,0,11,0
+050373,LOS ANGELES GENERAL MEDICAL CENTER,CA,Acute Care Hospitals,Government - Local,True,2.0,0,7,0
+050376,LAC/HARBOR-UCLA MED CENTER,CA,Acute Care Hospitals,Government - Local,True,1.0,0,8,0
+050378,PACIFICA HOSPITAL OF THE VALLEY,CA,Acute Care Hospitals,Proprietary,True,1.0,0,1,0
+050380,GOOD SAMARITAN HOSPITAL,CA,Acute Care Hospitals,Proprietary,True,2.0,0,6,3
+050382,EMANATE HEALTH INTER-COMMUNITY HOSPITAL,CA,Acute Care Hospitals,Proprietary,True,1.0,0,7,2
+050390,HEMET GLOBAL MEDICAL CENTER,CA,Acute Care Hospitals,Proprietary,True,1.0,0,5,0
+050393,PIH HEALTH DOWNEY HOSPITAL,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,1,6,0
+050394,COMMUNITY MEMORIAL HOSPITAL - VENTURA,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,0,11,0
+050396,SANTA BARBARA COTTAGE HOSPITAL,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,5.0,2,9,0
+05039F,NH Twentynine Palms,CA,Acute Care - Department of Defense,Department of Defense,True,,Not Available,Not Available,Not Available
+050407,CHINESE HOSPITAL,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,0,8,0
+050411,KAISER FOUNDATION HOSPITAL - SOUTH BAY,CA,Acute Care Hospitals,Voluntary non-profit - Other,False,4.0,0,2,0
+050414,MERCY HOSPITAL OF FOLSOM,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,0,7,0
+050417,SUTTER COAST HOSPITAL,CA,Acute Care Hospitals,Government - Hospital District or Authority,True,2.0,0,8,1
+05041F,Weed ACH (FT Irwin),CA,Acute Care - Department of Defense,Department of Defense,True,,Not Available,Not Available,Not Available
+050424,SCRIPPS GREEN HOSPITAL,CA,Acute Care Hospitals,Voluntary non-profit - Other,False,5.0,0,5,1
+050425,KAISER FOUNDATION HOSPITAL - SACRAMENTO,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,0,3,0
+050426,WEST ANAHEIM MEDICAL CENTER,CA,Acute Care Hospitals,Proprietary,True,2.0,0,3,2
+050438,HUNTINGTON HOSPITAL,CA,Acute Care Hospitals,Voluntary non-profit - Other,True,2.0,0,7,2
+050441,STANFORD HEALTH CARE,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,5.0,2,7,2
+050444,MERCY MEDICAL CENTER,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,2.0,0,8,1
+050454,UCSF MEDICAL CENTER,CA,Acute Care Hospitals,Voluntary non-profit - Other,True,5.0,1,9,1
+050455,ADVENTIST HEALTH BAKERSFIELD,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,1.0,0,9,0
+050457,ST MARY'S MEDICAL CENTER,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,1,9,0
+050464,DOCTORS MEDICAL CENTER,CA,Acute Care Hospitals,Proprietary,True,1.0,0,5,3
+050468,MEMORIAL HOSPITAL OF GARDENA,CA,Acute Care Hospitals,Proprietary,True,1.0,0,3,1
+050471,PIH HEALTH GOOD SAMARITAN HOSPITAL,CA,Acute Care Hospitals,Proprietary,False,2.0,0,6,3
+050481,UCLA WEST VALLEY MEDICAL CENTER,CA,Acute Care Hospitals,Proprietary,True,2.0,0,4,4
+050485,MEMORIALCARE LONG BEACH MEDICAL CENTER,CA,Acute Care Hospitals,Voluntary non-profit - Other,False,2.0,0,11,0
+050488,EDEN MEDICAL CENTER,CA,Acute Care Hospitals,Voluntary non-profit - Other,True,4.0,0,7,0
+050492,CLOVIS COMMUNITY MEDICAL CENTER,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,2.0,1,8,1
+050496,JOHN MUIR MEDICAL CENTER - CONCORD CAMPUS,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,2,9,0
+050498,SUTTER AUBURN FAITH HOSPITAL,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,0,8,1
+050503,SCRIPPS MEMORIAL HOSPITAL - ENCINITAS,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,5.0,4,3,1
+050506,ADVENTIST HEALTH SIERRA VISTA,CA,Acute Care Hospitals,Proprietary,True,3.0,0,7,0
+050510,KAISER FOUNDATION HOSPITAL,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,0,1,0
+050512,KAISER FOUNDATION HOSPITAL - FREMONT,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,0,1,0
+050515,KAISER FOUNDATION HOSPITAL - SAN DIEGO,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,0,2,0
+050516,MERCY SAN JUAN MEDICAL CENTER,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,0,10,1
+050517,VICTOR VALLEY GLOBAL MEDICAL CENTER,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,1.0,0,5,1
+050523,SUTTER DELTA MEDICAL CENTER,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,0,7,0
+050526,HUNTINGTON BEACH HOSPITAL,CA,Acute Care Hospitals,Proprietary,True,,0,3,0
+050528,MEMORIAL HOSPITAL LOS BANOS,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,,1,3,0
+050534,JOHN F KENNEDY MEMORIAL HOSPITAL,CA,Acute Care Hospitals,Proprietary,True,3.0,0,5,0
+050537,SUTTER DAVIS HOSPITAL,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,0,8,0
+050541,KAISER FOUNDATION HOSPITAL - REDWOOD CITY,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,0,1,0
+050543,COLLEGE HOSPITAL COSTA MESA,CA,Acute Care Hospitals,Proprietary,False,,Not Available,Not Available,Not Available
+050546,PORTERVILLE DEVELOPMENTAL CENTER,CA,Acute Care Hospitals,Government - State,False,,Not Available,Not Available,Not Available
+050549,LOS ROBLES HOSPITAL & MEDICAL CENTER,CA,Acute Care Hospitals,Proprietary,True,4.0,0,6,3
+050551,UCI HEALTH - LOS ALAMITOS,CA,Acute Care Hospitals,Proprietary,True,3.0,0,7,0
+050557,MEMORIAL MEDICAL CENTER,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,2.0,0,9,2
+050561,KAISER FOUNDATION HOSPITAL - WEST LA,CA,Acute Care Hospitals,Voluntary non-profit - Private,False,3.0,0,1,0
+050567,PROVIDENCE MISSION HOSPITAL,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,2,9,0
+050570,UCI HEALTH - FOUNTAIN VALLEY,CA,Acute Care Hospitals,Proprietary,True,2.0,0,7,1
+050573,EISENHOWER MEDICAL CENTER,CA,Acute Care Hospitals,Proprietary,True,4.0,3,8,0
+050580,LA PALMA INTERCOMMUNITY HOSPITAL,CA,Acute Care Hospitals,Proprietary,False,3.0,0,4,0
+050581,UCI HEALTH-LAKEWOOD,CA,Acute Care Hospitals,Proprietary,True,2.0,0,5,2
+050586,CHINO VALLEY MEDICAL CENTER,CA,Acute Care Hospitals,Proprietary,True,2.0,0,3,0
+050588,SAN DIMAS COMMUNITY HOSPITAL,CA,Acute Care Hospitals,Proprietary,True,1.0,0,4,1
+050589,UCI HEALTH - PLACENTIA LINDA,CA,Acute Care Hospitals,Proprietary,False,2.0,0,4,1
+050590,METHODIST HOSPITAL OF SACRAMENTO,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,0,5,1
+050597,EMANATE HEALTH FOOTHILL PRESBYTERIAN HOSPITAL,CA,Acute Care Hospitals,Voluntary non-profit - Private,False,3.0,0,6,0
+050599,UNIVERSITY OF CALIFORNIA DAVIS MEDICAL CENTER,CA,Acute Care Hospitals,Government - Hospital District or Authority,True,3.0,0,11,0
+050603,MEMORIALCARE SADDLEBACK MEDICAL CENTER,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,0,7,0
+050604,KAISER FOUNDATION HOSPITAL-SAN JOSE,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,0,2,0
+050608,ADVENTIST HEALTH DELANO,CA,Acute Care Hospitals,Proprietary,True,,0,5,0
+050609,KAISER FOUNDATION HOSPITAL - ORANGE COUNTY - ANAHEIM,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,0,1,0
+050624,HENRY MAYO NEWHALL  HOSPITAL,CA,Acute Care Hospitals,Voluntary non-profit - Private,False,2.0,0,7,2
+050625,CEDARS-SINAI MEDICAL CENTER,CA,Acute Care Hospitals,Voluntary non-profit - Other,True,5.0,2,6,3
+050633,ADVENTIST HEALTH TWIN CITIES,CA,Acute Care Hospitals,Proprietary,True,2.0,0,6,1
+050636,PALOMAR MEDICAL CENTER POWAY,CA,Acute Care Hospitals,Government - Hospital District or Authority,True,4.0,0,6,0
+050641,EAST LOS ANGELES DOCTORS HOSPITAL,CA,Acute Care Hospitals,Proprietary,True,,0,3,0
+050663,LOS ANGELES COMMUNITY HOSPITAL,CA,Acute Care Hospitals,Proprietary,True,2.0,0,4,1
+050668,LAGUNA HONDA HOSPITAL & REHABILITATION CENTER,CA,Acute Care Hospitals,Government - Local,False,,0,1,1
+050674,KAISER FOUNDATION HOSP SO SACRAMENTO,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,0,3,0
+050677,KAISER FOUNDATION HOSPITAL - WOODLAND HILLS,CA,Acute Care Hospitals,Voluntary non-profit - Private,False,3.0,0,1,0
+050678,MEMORIALCARE ORANGE COAST MEDICAL CENTER,CA,Acute Care Hospitals,Proprietary,True,3.0,0,9,0
+050684,MENIFEE GLOBAL MEDICAL CENTER,CA,Acute Care Hospitals,Proprietary,True,,0,1,1
+050686,"KAISER FOUNDATION HOSPITAL, RIVERSIDE",CA,Acute Care Hospitals,Voluntary non-profit - Private,True,5.0,0,1,0
+050689,SAN RAMON REGIONAL MEDICAL CENTER,CA,Acute Care Hospitals,Proprietary,True,3.0,0,7,1
+050690,KAISER FOUNDATION HOSPITAL-SANTA ROSA,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,0,1,0
+050696,KECK HOSPITAL OF USC,CA,Acute Care Hospitals,Voluntary non-profit - Other,False,4.0,1,8,1
+050697,PATIENTS' HOSPITAL OF REDDING,CA,Acute Care Hospitals,Proprietary,False,,Not Available,Not Available,Not Available
+050701,SOUTHWEST HEALTHCARE RANCHO SPRINGS HOSPITAL,CA,Acute Care Hospitals,Proprietary,True,3.0,0,5,1
+050704,MISSION COMMUNITY HOSPITAL,CA,Acute Care Hospitals,Voluntary non-profit - Private,False,1.0,0,4,1
+050708,FRESNO SURGICAL HOSPITAL,CA,Acute Care Hospitals,Proprietary,False,,1,2,0
+050709,DESERT VALLEY HOSPITAL,CA,Acute Care Hospitals,Proprietary,True,3.0,0,8,0
+050710,KAISER FOUNDATION HOSPITAL - FRESNO,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,0,1,0
+050714,SUTTER MATERNITY & SURGERY CENTER OF SANTA CRUZ,CA,Acute Care Hospitals,Voluntary non-profit - Private,False,,0,4,0
+050717,LAC/RANCHO LOS AMIGOS NATIONAL REHABILITATION  CTR,CA,Acute Care Hospitals,Government - Local,False,3.0,0,1,0
+050723,KAISER FOUNDATION HOSPITAL - BALDWIN PARK,CA,Acute Care Hospitals,Voluntary non-profit - Other,False,2.0,0,1,0
+050726,STANISLAUS SURGICAL HOSPITAL,CA,Acute Care Hospitals,Voluntary non-profit - Private,False,,0,4,0
+050735,WHITTIER HOSPITAL MEDICAL CENTER,CA,Acute Care Hospitals,Proprietary,True,2.0,0,4,1
+050736,MONTEREY PARK HOSPITAL,CA,Acute Care Hospitals,Proprietary,False,1.0,0,4,0
+050737,GARFIELD MEDICAL CENTER,CA,Acute Care Hospitals,Proprietary,True,1.0,0,5,3
+050738,GREATER EL MONTE COMMUNITY HOSPITAL,CA,Acute Care Hospitals,Voluntary non-profit - Private,False,2.0,0,3,0
+050739,CENTINELA HOSPITAL MEDICAL CENTER,CA,Acute Care Hospitals,Proprietary,False,2.0,0,3,2
+050740,CEDAR-SINAI MARINA DEL REY HOSPITAL,CA,Acute Care Hospitals,Proprietary,True,4.0,0,4,2
+050744,ANAHEIM GLOBAL MEDICAL CENTER,CA,Acute Care Hospitals,Proprietary,False,,0,2,0
+050745,CHAPMAN GLOBAL MEDICAL CENTER,CA,Acute Care Hospitals,Proprietary,False,1.0,0,3,1
+050746,ORANGE COUNTY GLOBAL MEDICAL CENTER,CA,Acute Care Hospitals,Proprietary,True,2.0,0,3,0
+050747,COASTAL COMMUNITIES HOSPITAL,CA,Acute Care Hospitals,Proprietary,True,,0,2,0
+050748,KAISER FOUNDATION HOSPITAL MANTECA,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,0,1,0
+050755,SHERMAN OAKS HOSPITAL,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,2.0,0,3,3
+050758,MONTCLAIR HOSPITAL MEDICAL CENTER,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,0,4,0
+050760,KAISER FOUNDATION HOSPITAL - ANTIOCH,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,0,2,0
+050761,PROVIDENCE CEDARS SINAI TARZANA MEDICAL CENTER,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,0,7,3
+050763,L A DOWNTOWN MEDICAL CENTER,CA,Acute Care Hospitals,Proprietary,False,2.0,0,2,3
+050764,SHASTA REGIONAL MEDICAL CENTER,CA,Acute Care Hospitals,Proprietary,True,1.0,0,8,1
+050765,KAISER FOUNDATION HOSPITAL-MORENO VALLEY,CA,Acute Care Hospitals,Voluntary non-profit - Other,True,4.0,0,1,0
+050766,SUTTER SURGICAL HOSPITAL - NORTH VALLEY,CA,Acute Care Hospitals,Physician,False,,0,3,0
+050767,KAISER FOUNDATION HOSPITAL - VACAVILLE,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,0,1,0
+050769,HOAG ORTHOPEDIC INSTITUTE,CA,Acute Care Hospitals,Proprietary,False,,1,2,0
+050770,LOMA LINDA UNIVERSITY MEDICAL CENTER-MURRIETA,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,2.0,0,4,3
+050771,COAST PLAZA HOSPITAL,CA,Acute Care Hospitals,Proprietary,True,1.0,0,2,1
+050772,KAISER FOUNDATION HOSPITAL - ROSEVILLE,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,0,1,0
+050775,TEMECULA VALLEY HOSPITAL,CA,Acute Care Hospitals,Proprietary,True,3.0,1,7,0
+050776,COLLEGE MEDICAL CENTER,CA,Acute Care Hospitals,Proprietary,True,2.0,0,5,0
+050777,KAISER FOUNDATION HOSPITAL - SAN LEANDRO,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,2.0,0,2,0
+050778,LOMA LINDA UNIVERSITY CHILDREN'S HOSPITAL,CA,Acute Care Hospitals,Voluntary non-profit - Church,False,3.0,Not Available,Not Available,Not Available
+050779,"MARTIN LUTHER KING, JR. COMMUNITY HOSPITAL",CA,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,0,3,1
+050780,FOOTHILL REGIONAL MEDICAL CENTER,CA,Acute Care Hospitals,Proprietary,False,,0,4,0
+050782,CASA COLINA HOSPITAL,CA,Acute Care Hospitals,Voluntary non-profit - Private,False,3.0,1,5,0
+050783,COLUSA MEDICAL CENTER,CA,Acute Care Hospitals,Proprietary,True,4.0,0,4,0
+050784,ADVENTIST HEALTH TULARE,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,,0,4,0
+050785,DOCS SURGICAL HOSPITAL,CA,Acute Care Hospitals,Physician,False,,0,2,0
+050854,"ANAHEIM COMMUNITY HOSPITAL, LLC",CA,Acute Care Hospitals,Proprietary,False,,Not Available,Not Available,Not Available
+050855,KAISER FOUNDATION HOSPITAL - SAN MARCOS,CA,Acute Care Hospitals,Voluntary non-profit - Private,True,,Not Available,Not Available,Not Available
+05114F,VA SAN DIEGO HEALTHCARE SYSTEM,CA,Acute Care - Veterans Administration,Veterans Health Administration,True,5.0,0,5,1
+05127F,LOMA LINDA VA MEDICAL CENTER,CA,Acute Care - Veterans Administration,Veterans Health Administration,True,4.0,1,5,0
+05128F,VA GREATER LOS ANGELES HEALTHCARE SYSTEM,CA,Acute Care - Veterans Administration,Veterans Health Administration,True,3.0,0,3,3
+051300,EASTERN PLUMAS HOSPITAL - PORTOLA CAMPUS,CA,Critical Access Hospitals,Government - Hospital District or Authority,True,,0,2,0
+051301,ADVENTIST HEALTH TEHACHAPI VALLEY,CA,Critical Access Hospitals,Voluntary non-profit - Private,True,,0,4,0
+051302,SOUTHERN INYO HOSPITAL,CA,Critical Access Hospitals,Government - Hospital District or Authority,True,,Not Available,Not Available,Not Available
+051303,MAMMOTH HOSPITAL,CA,Critical Access Hospitals,Government - Hospital District or Authority,True,,0,2,0
+051304,JOHN C FREMONT HEALTHCARE DISTRICT,CA,Critical Access Hospitals,Government - Hospital District or Authority,True,,0,3,0
+051305,MAYERS MEMORIAL HOSPITAL,CA,Critical Access Hospitals,Government - Hospital District or Authority,True,,0,2,0
+051306,GLENN MEDICAL CENTER,CA,Critical Access Hospitals,Proprietary,True,,0,2,0
+051307,CATALINA ISLAND MEDICAL CENTER,CA,Critical Access Hospitals,Voluntary non-profit - Private,True,,Not Available,Not Available,Not Available
+051308,SURPRISE VALLEY COMMUNITY HOSPITAL,CA,Critical Access Hospitals,Government - Hospital District or Authority,True,,Not Available,Not Available,Not Available
+051309,JEROLD PHELPS COMMUNITY HOSPITAL,CA,Critical Access Hospitals,Government - Hospital District or Authority,True,,Not Available,Not Available,Not Available
+05130F,SAN FRANCISCO VA MEDICAL CENTER,CA,Acute Care - Veterans Administration,Veterans Health Administration,True,4.0,0,5,1
+051310,ADVENTIST HEALTH HOWARD MEMORIAL,CA,Critical Access Hospitals,Voluntary non-profit - Church,True,5.0,1,5,1
+051311,ORCHARD HOSPITAL,CA,Critical Access Hospitals,Voluntary non-profit - Private,True,,0,3,0
+051312,MOUNTAINS COMMUNITY HOSPITAL,CA,Critical Access Hospitals,Government - Hospital District or Authority,True,,0,1,0
+051314,KERN VALLEY HEALTHCARE DISTRICT,CA,Critical Access Hospitals,Government - Hospital District or Authority,True,,0,4,0
+051315,TRINITY HOSPITAL,CA,Critical Access Hospitals,Government - Hospital District or Authority,True,,0,2,0
+051316,FAIRCHILD MEDICAL CENTER,CA,Critical Access Hospitals,Voluntary non-profit - Other,True,1.0,0,7,0
+051317,ADVENTIST HEALTH CLEARLAKE,CA,Critical Access Hospitals,Voluntary non-profit - Private,True,1.0,0,6,0
+051318,PROVIDENCE REDWOOD MEMORIAL HOSPITAL,CA,Critical Access Hospitals,Voluntary non-profit - Private,True,,0,5,0
+051319,MERCY MEDICAL CENTER OF MT SHASTA,CA,Critical Access Hospitals,Voluntary non-profit - Other,True,3.0,1,4,0
+051320,BANNER LASSEN MEDICAL CENTER,CA,Critical Access Hospitals,Voluntary non-profit - Private,True,3.0,0,5,0
+051321,HEALDSBURG HOSPITAL,CA,Critical Access Hospitals,Voluntary non-profit - Private,True,,0,3,0
+051323,COLORADO RIVER MEDICAL CENTER,CA,Critical Access Hospitals,Voluntary non-profit - Private,True,,0,1,0
+051324,NORTHERN INYO HOSPITAL,CA,Critical Access Hospitals,Government - Hospital District or Authority,True,,1,1,1
+051325,MENDOCINO COAST DISTRICT HOSPITAL,CA,Critical Access Hospitals,Government - Hospital District or Authority,True,1.0,0,8,0
+051326,PLUMAS DISTRICT HOSPITAL,CA,Critical Access Hospitals,Government - Hospital District or Authority,True,,0,2,0
+051327,SENECA DISTRICT HOSPITAL,CA,Critical Access Hospitals,Government - Hospital District or Authority,True,,0,1,0
+051328,TAHOE FOREST HOSPITAL,CA,Critical Access Hospitals,Government - Hospital District or Authority,True,,0,8,0
+051329,SUTTER LAKESIDE HOSPITAL,CA,Critical Access Hospitals,Voluntary non-profit - Private,True,5.0,1,5,0
+051330,MODOC MEDICAL CENTER,CA,Critical Access Hospitals,Government - Hospital District or Authority,True,,0,3,0
+051331,SANTA YNEZ VALLEY COTTAGE HOSPITAL,CA,Critical Access Hospitals,Voluntary non-profit - Private,True,,0,2,0
+051332,MARK TWAIN MEDICAL CENTER,CA,Critical Access Hospitals,Voluntary non-profit - Other,False,3.0,0,9,0
+051333,RIDGECREST REGIONAL HOSPITAL,CA,Critical Access Hospitals,Voluntary non-profit - Private,True,,0,4,0
+051334,COMMUNITY MEMORIAL HOSPITAL - OJAI,CA,Critical Access Hospitals,Voluntary non-profit - Private,True,,0,1,0
+051335,BEAR VALLEY COMMUNITY HOSPITAL,CA,Critical Access Hospitals,Government - Hospital District or Authority,True,,Not Available,Not Available,Not Available
+051336,SOUTHERN MONTEREY COUNTY MEMORIAL HOSPITAL,CA,Critical Access Hospitals,Voluntary non-profit - Other,True,,0,1,0
+051337,HAZEL HAWKINS MEMORIAL HOSPITAL,CA,Critical Access Hospitals,Government - Hospital District or Authority,True,,0,2,0
+051338,COALINGA REGIONAL MEDICAL CENTER,CA,Critical Access Hospitals,Government - Hospital District or Authority,True,,Not Available,Not Available,Not Available
+051339,PALO VERDE HOSPITAL,CA,Critical Access Hospitals,Government - Hospital District or Authority,False,,Not Available,Not Available,Not Available
+053300,VALLEY CHILDREN'S HOSPITAL,CA,Childrens,Voluntary non-profit - Private,True,,Not Available,Not Available,Not Available
+053301,UCSF BENIOFF CHILDREN'S HOSPITAL OAKLAND,CA,Childrens,Voluntary non-profit - Private,True,,Not Available,Not Available,Not Available
+053302,CHILDREN'S HOSP OF LOS ANGELES,CA,Childrens,Voluntary non-profit - Private,True,,Not Available,Not Available,Not Available
+053303,RADY CHILDREN'S HOSPITAL - SAN DIEGO,CA,Childrens,Voluntary non-profit - Other,False,,Not Available,Not Available,Not Available
+053304,CHILDREN'S HOSPITAL OF ORANGE COUNTY,CA,Childrens,Voluntary non-profit - Other,False,,Not Available,Not Available,Not Available
+053305,LUCILE SALTER PACKARD CHILDREN'S HSP AT STANFORD,CA,Childrens,Voluntary non-profit - Private,False,,Not Available,Not Available,Not Available
+053306,CHILDREN'S HOSPITAL AT MISSION,CA,Childrens,Voluntary non-profit - Private,True,,Not Available,Not Available,Not Available
+053308,HEALTHBRIDGE CHILDREN'S HOSPITAL - ORANGE,CA,Childrens,Proprietary,False,,Not Available,Not Available,Not Available
+053309,MEMORIAL CARE MILLER CHILDREN'S &  WOMEN'S HOSP LB,CA,Childrens,Voluntary non-profit - Other,False,,Not Available,Not Available,Not Available
+053311,SHRINERS HOSPITALS FOR CHILDREN NORTHERN CALIF,CA,Childrens,Voluntary non-profit - Private,False,,Not Available,Not Available,Not Available
+054009,RESNICK NEUROPSYCHIATRIC HOSPITAL AT UCLA,CA,Psychiatric,Government - State,True,,Not Available,Not Available,Not Available
+054028,GATEWAYS HOSP  MENTAL HEALTH CTR,CA,Psychiatric,Proprietary,False,,Not Available,Not Available,Not Available
+054032,BHC ALHAMBRA HOSPITAL,CA,Psychiatric,Proprietary,False,,Not Available,Not Available,Not Available
+054053,DEL AMO HOSPITAL,CA,Psychiatric,Proprietary,True,,Not Available,Not Available,Not Available
+054055,COLLEGE HOSPITAL,CA,Psychiatric,Proprietary,False,,Not Available,Not Available,Not Available
+054069,AURORA CHARTER OAK,CA,Psychiatric,Voluntary non-profit - Church,True,,Not Available,Not Available,Not Available
+054074,ADVENTIST HEALTH VALLEJO,CA,Psychiatric,Voluntary non-profit - Private,False,,Not Available,Not Available,Not Available
+054075,ALVARADO PARKWAY INSTITUTE BEHAVIORAL HEALTH SYSTE,CA,Psychiatric,Voluntary non-profit - Private,False,,Not Available,Not Available,Not Available
+054077,AURORA VISTA DEL MAR HOSPITAL,CA,Psychiatric,Proprietary,False,,Not Available,Not Available,Not Available
+054078,AURORA LAS ENCINAS,CA,Psychiatric,Proprietary,False,,Not Available,Not Available,Not Available
+054087,"BHC SIERRA VISTA HOSPITAL, INC",CA,Psychiatric,Proprietary,False,,Not Available,Not Available,Not Available
+054089,JEWISH HOME & REHAB CENTER,CA,Psychiatric,Voluntary non-profit - Private,False,,Not Available,Not Available,Not Available
+054095,AURORA SAN DIEGO,CA,Psychiatric,Proprietary,False,,Not Available,Not Available,Not Available
+054096,SUTTER CENTER FOR PSYCHIATRY,CA,Psychiatric,Voluntary non-profit - Private,False,,Not Available,Not Available,Not Available
+054104,HERITAGE OAKS HOSPITAL,CA,Psychiatric,Proprietary,True,,Not Available,Not Available,Not Available
+054110,BHC FREMONT HOSPITAL INC,CA,Psychiatric,Proprietary,False,,Not Available,Not Available,Not Available
+054111,CANYON RIDGE HOSPITAL,CA,Psychiatric,Proprietary,False,,Not Available,Not Available,Not Available
+054122,DEPT OF STATE HOSPITALS - NAPA,CA,Psychiatric,Government - State,False,,Not Available,Not Available,Not Available
+054123,ST JOSEPH'S BEHAVIORAL HEALTH CENTER,CA,Psychiatric,Voluntary non-profit - Private,False,,Not Available,Not Available,Not Available
+054124,SEMPERVIRENS,CA,Psychiatric,Government - Local,True,,Not Available,Not Available,Not Available
+054125,SANTA BARBARA COUNTY PSYCHIATRIC HEALTH FACILITY,CA,Psychiatric,Government - Local,False,,Not Available,Not Available,Not Available
+054130,PACIFIC GROVE HOSPITAL,CA,Psychiatric,Proprietary,False,,Not Available,Not Available,Not Available
+054131,JOHN MUIR BEHAVIORAL HEALTH CENTER,CA,Psychiatric,Voluntary non-profit - Private,True,,Not Available,Not Available,Not Available
+054133,DEPT OF STATE HOSPITALS - METROPOLITAN - PSY,CA,Psychiatric,Government - State,True,,Not Available,Not Available,Not Available
+054144,UCSF LANGLEY PORTER PSYCHIATRIC HOSPITAL AND CLINICS,CA,Psychiatric,Government - State,False,,Not Available,Not Available,Not Available
+054145,SHARP MESA VISTA HOSPITAL,CA,Psychiatric,Voluntary non-profit - Private,False,,Not Available,Not Available,Not Available
+054146,TELECARE HERITAGE PSYCHIATRIC HEALTH FACILITY,CA,Psychiatric,Proprietary,False,,Not Available,Not Available,Not Available
+054147,JOYCE EISENBERG KEEFER MEDICAL CENTER,CA,Psychiatric,Voluntary non-profit - Private,False,,Not Available,Not Available,Not Available
+054148,TARZANA TREATMENT CENTER,CA,Psychiatric,Voluntary non-profit - Private,False,,Not Available,Not Available,Not Available
+054149,WILLOW ROCK CENTER,CA,Psychiatric,Proprietary,False,,Not Available,Not Available,Not Available
+054150,KAISER PERMANENTE PSYCHIATRIC HEALTH FACILITY-SANT,CA,Psychiatric,Proprietary,True,,Not Available,Not Available,Not Available
+054151,"AURORA BEHAVIORAL HEALTHCARE-SANTA ROSA, LLC",CA,Psychiatric,Proprietary,True,,Not Available,Not Available,Not Available
+054152,SANTA CRUZ COUNTY PSYCHIATRIC HEALTH FACILITY,CA,Psychiatric,Proprietary,False,,Not Available,Not Available,Not Available
+054153,OCEAN VIEW PSYCHIATRIC HEALTH FACILITY,CA,Psychiatric,Proprietary,False,,Not Available,Not Available,Not Available
+054154,SAN JOSE BEHAVIORAL HEALTH,CA,Psychiatric,Proprietary,False,,Not Available,Not Available,Not Available
+054155,"BAKERSFIELD BEHAVIORAL HEALTHCARE HOSPITAL, LLC",CA,Psychiatric,Proprietary,False,,Not Available,Not Available,Not Available
+054157,GLENDORA  HOSPITAL,CA,Psychiatric,Voluntary non-profit - Private,False,,Not Available,Not Available,Not Available
+054158,"ALISO RIDGE BEHAVIORAL HEALTH, LLC",CA,Psychiatric,Proprietary,False,,Not Available,Not Available,Not Available
+054159,"SACRAMENTO BEHAVIORAL HEALTHCARE HOSPITAL, LLC",CA,Psychiatric,Proprietary,False,,Not Available,Not Available,Not Available
+054160,RIVER VISTA BEHAVIORAL HEALTH,CA,Psychiatric,Proprietary,False,,Not Available,Not Available,Not Available
+060001,BANNER NORTH COLORADO MEDICAL CENTER,CO,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,0,11,0
+060003,LONGMONT UNITED HOSPITAL,CO,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,0,5,1
+060004,INTERMOUNTAIN HEALTH PLATTE VALLEY HOSPITAL,CO,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,0,5,0
+060006,MONTROSE REGIONAL HEALTH,CO,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,1,8,0
+060008,SAN LUIS VALLEY REGIONAL  MEDICAL CENTER,CO,Acute Care Hospitals,Voluntary non-profit - Private,True,1.0,0,6,1
+060009,LUTHERAN MEDICAL CENTER,CO,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,1,8,0
+060010,POUDRE VALLEY HOSPITAL,CO,Acute Care Hospitals,Voluntary non-profit - Private,True,5.0,2,8,0
+060011,DENVER HEALTH & HOSPITAL AUTHORITY,CO,Acute Care Hospitals,Government - State,True,3.0,0,8,0
+060012,"ST MARY CORWIN MED CTR, CENTURA HEALTH",CO,Acute Care Hospitals,Voluntary non-profit - Church,True,3.0,0,7,0
+060013,MERCY REGIONAL MEDICAL CENTER,CO,Acute Care Hospitals,Voluntary non-profit - Church,True,5.0,1,8,0
+060014,HCA HEALTHONE PRESBYTERIAN ST LUKES,CO,Acute Care Hospitals,Government - State,True,3.0,0,6,1
+060015,CENTURA HEALTH-ST ANTHONY HOSPITAL,CO,Acute Care Hospitals,Voluntary non-profit - Church,True,4.0,1,6,1
+060020,"PARKVIEW MEDICAL CENTER, INC",CO,Acute Care Hospitals,Voluntary non-profit - Private,True,2.0,1,7,1
+060022,UCH-MEMORIAL HEALTH SYSTEM,CO,Acute Care Hospitals,Government - Local,True,4.0,1,10,0
+060023,INTERMOUNTAIN HEALTH ST. MARY'S REGIONAL HOSPITAL,CO,Acute Care Hospitals,Voluntary non-profit - Church,True,4.0,3,8,0
+060024,UNIVERSITY OF COLORADO HOSPITAL AUTHORITY,CO,Acute Care Hospitals,Government - Hospital District or Authority,True,5.0,1,10,0
+060027,BOULDER COMMUNITY HEALTH,CO,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,0,9,0
+060028,SAINT JOSEPH HOSPITAL,CO,Acute Care Hospitals,Voluntary non-profit - Private,True,5.0,0,9,0
+060030,BANNER MCKEE MEDICAL CENTER,CO,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,0,7,0
+060031,CENTURA HEALTH-PENROSE ST FRANCIS HEALTH SERVICES,CO,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,3,7,1
+060032,HCA HEALTHONE ROSE,CO,Acute Care Hospitals,Proprietary,True,3.0,0,7,0
+060034,HCA-HEALTHONE DBA SWEDISH MEDICAL CENTER,CO,Acute Care Hospitals,Proprietary,True,4.0,0,10,1
+06003F,Evans ACH (FT Carson),CO,Acute Care - Department of Defense,Department of Defense,True,,Not Available,Not Available,Not Available
+060044,ST ELIZABETH HOSPITAL,CO,Acute Care Hospitals,Voluntary non-profit - Other,True,,0,5,0
+060049,UCHEALTH YAMPA VALLEY MEDICAL CENTER,CO,Acute Care Hospitals,Voluntary non-profit - Private,True,,0,7,0
+060054,COMMUNITY HOSPITAL,CO,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,1,6,1
+06005F,VA EASTERN COLORADO HEALTHCARE SYSTEM,CO,Acute Care - Veterans Administration,Veterans Health Administration,True,5.0,2,4,0
+060064,CENTURA HEALTH-PORTER ADVENTIST HOSPITAL,CO,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,1,8,0
+060065,HCA HEALTHONE MOUNTAIN RIDGE,CO,Acute Care Hospitals,Voluntary non-profit - Private,True,2.0,0,6,0
+060071,DELTA COUNTY MEMORIAL HOSPITAL,CO,Acute Care Hospitals,Government - Local,True,3.0,0,8,0
+060075,VALLEY VIEW HOSPITAL ASSOCIATION,CO,Acute Care Hospitals,Voluntary non-profit - Private,True,5.0,1,9,0
+060076,STERLING REGIONAL MEDCENTER,CO,Acute Care Hospitals,Voluntary non-profit - Private,True,,0,7,0
+06007F,GRAND JUNCTION VA MEDICAL CENTER,CO,Acute Care - Veterans Administration,Veterans Health Administration,True,5.0,1,4,0
+060096,VAIL HEALTH HOSPITAL,CO,Acute Care Hospitals,Voluntary non-profit - Other,True,5.0,0,8,0
+060100,THE MEDICAL CENTER OF AURORA & SOUTH HOSPITAL,CO,Acute Care Hospitals,Proprietary,True,3.0,2,6,1
+060103,CENTURA HEALTH-AVISTA ADVENTIST HOSPITAL,CO,Acute Care Hospitals,Voluntary non-profit - Church,True,4.0,2,5,0
+060104,CENTURA HEALTH-ST ANTHONY NORTH HEALTH CAMPUS,CO,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,2,5,0
+060107,NATIONAL JEWISH HEALTH,CO,Acute Care Hospitals,Voluntary non-profit - Private,True,,0,3,0
+060112,SKY RIDGE MEDICAL CENTER,CO,Acute Care Hospitals,Voluntary non-profit - Other,True,3.0,0,10,0
+060113,"LITTLETON ADVENTIST HOSPITAL, CENTURA HEALTH",CO,Acute Care Hospitals,Voluntary non-profit - Church,True,4.0,0,7,1
+060114,PARKER ADVENTIST HOSPITAL,CO,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,2,8,0
+060116,GOOD SAMARITAN MEDICAL CENTER LLC,CO,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,0,8,0
+060117,"ANIMAS SURGICAL HOSPITAL, LLC",CO,Acute Care Hospitals,Proprietary,True,,0,3,0
+060118,ST ANTHONY SUMMIT MEDICAL CENTER,CO,Acute Care Hospitals,Voluntary non-profit - Church,True,,0,2,0
+060119,MEDICAL CENTER OF THE ROCKIES,CO,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,1,10,0
+060124,ORTHOCOLORADO HOSP AT ST ANTHONY MED CAMPUS,CO,Acute Care Hospitals,Proprietary,True,,0,3,0
+060125,ADVENTHEALTH CASTLE ROCK,CO,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,0,6,0
+060126,BANNER FORT COLLINS MEDICAL CENTER,CO,Acute Care Hospitals,Voluntary non-profit - Other,True,,0,3,0
+060128,LONGS PEAK HOSPITAL,CO,Acute Care Hospitals,Voluntary non-profit - Private,True,5.0,1,6,0
+060129,UCHEALTH BROOMFIELD HOSPITAL,CO,Acute Care Hospitals,Proprietary,True,5.0,0,3,0
+060130,UCHEALTH GRANDVIEW HOSPITAL,CO,Acute Care Hospitals,Voluntary non-profit - Private,True,,1,3,0
+060131,UCHEALTH GREELEY HOSPITAL,CO,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,0,8,1
+060132,UCHEALTH HIGHLANDS RANCH HOSPITAL,CO,Acute Care Hospitals,Voluntary non-profit - Private,True,5.0,0,8,0
+060133,ST FRANCIS HOSPITAL - INTERQUEST,CO,Acute Care Hospitals,Voluntary non-profit - Private,True,,Not Available,Not Available,Not Available
+061300,WEISBROD MEMORIAL COUNTY HOSPITAL,CO,Critical Access Hospitals,Government - Hospital District or Authority,True,,Not Available,Not Available,Not Available
+061301,RIO GRANDE HOSPITAL,CO,Critical Access Hospitals,Proprietary,True,5.0,0,4,0
+061302,FAMILY HEALTH WEST HOSPITAL,CO,Critical Access Hospitals,Voluntary non-profit - Private,True,,0,1,0
+061303,EAST MORGAN COUNTY HOSPITAL,CO,Critical Access Hospitals,Voluntary non-profit - Private,True,,1,2,0
+061304,HAXTUN HOSPITAL DISTRICT,CO,Critical Access Hospitals,Government - Hospital District or Authority,True,,0,1,0
+061305,MELISSA MEMORIAL HOSPITAL,CO,Critical Access Hospitals,Government - Hospital District or Authority,True,,0,1,0
+061306,LINCOLN HEALTH HOSPITAL,CO,Critical Access Hospitals,Voluntary non-profit - Other,True,,0,1,0
+061307,RANGELY DISTRICT HOSPITAL,CO,Critical Access Hospitals,Government - Hospital District or Authority,True,,Not Available,Not Available,Not Available
+061308,SAN LUIS VALLEY HEALTH CONEJOS COUNTY HOSPITAL,CO,Critical Access Hospitals,Voluntary non-profit - Private,False,,0,1,0
+061309,WRAY COMMUNITY DISTRICT HOSPITAL,CO,Critical Access Hospitals,Government - Hospital District or Authority,True,,0,4,0
+061310,SEDGWICK COUNTY MEMORIAL HOSPITAL,CO,Critical Access Hospitals,Government - Local,True,,0,3,0
+061311,SOUTHEAST COLORADO HOSPITAL DISTRICT,CO,Critical Access Hospitals,Government - Hospital District or Authority,True,,0,2,0
+061312,ESTES PARK MEDICAL CENTER,CO,Critical Access Hospitals,Government - Hospital District or Authority,True,,0,3,0
+061313,KIT CARSON COUNTY MEMORIAL HOSPITAL,CO,Critical Access Hospitals,Government - Hospital District or Authority,True,,0,1,0
+061314,"MEMORIAL HOSPITAL, THE",CO,Critical Access Hospitals,Government - Local,True,,0,6,0
+061315,YUMA DISTRICT HOSPITAL,CO,Critical Access Hospitals,Government - Hospital District or Authority,True,,0,1,0
+061316,SPANISH PEAKS REGIONAL HEALTH CENTER,CO,Critical Access Hospitals,Government - Hospital District or Authority,True,,0,2,0
+061317,GRAND RIVER HOSPITAL DISTRICT,CO,Critical Access Hospitals,Government - Hospital District or Authority,True,,0,1,0
+061318,MIDDLE PARK MEDICAL CENTER,CO,Critical Access Hospitals,Government - Hospital District or Authority,True,,0,3,0
+061319,ST VINCENT GENERAL HOSPITAL DISTRICT,CO,Critical Access Hospitals,Government - Hospital District or Authority,True,,Not Available,Not Available,Not Available
+061320,GUNNISON VALLEY HOSPITAL,CO,Critical Access Hospitals,Government - Local,True,,0,3,0
+061321,MT SAN RAFAEL HOSPITAL,CO,Critical Access Hospitals,Voluntary non-profit - Private,True,,0,2,0
+061322,HEART OF THE ROCKIES REGIONAL MEDICAL CENTER,CO,Critical Access Hospitals,Government - Hospital District or Authority,True,,0,7,0
+061323,PROWERS MEDICAL CENTER,CO,Critical Access Hospitals,Government - Hospital District or Authority,True,,0,2,0
+061324,ASPEN VALLEY HOSPITAL,CO,Critical Access Hospitals,Government - Hospital District or Authority,True,,0,4,0
+061325,EASTERN RIO BLANCO COUNTY HEALTH SERVICE DISTRICT,CO,Critical Access Hospitals,Government - Hospital District or Authority,True,,0,3,0
+061326,UCHEALTH PIKES PEAK REGIONAL HOSPITAL,CO,Critical Access Hospitals,Voluntary non-profit - Private,True,,0,3,0
+061327,SOUTHWEST MEMORIAL HOSPITAL,CO,Critical Access Hospitals,Voluntary non-profit - Private,True,,1,4,0
+061328,PAGOSA SPRINGS MEDICAL CENTER,CO,Critical Access Hospitals,Government - Hospital District or Authority,True,,0,2,0
+061336,ARKANSAS VALLEY REGIONAL MEDICAL CENTER,CO,Critical Access Hospitals,Voluntary non-profit - Private,True,,Not Available,Not Available,Not Available
+061343,KEEFE MEMORIAL HOSPITAL,CO,Critical Access Hospitals,Government - Hospital District or Authority,True,,Not Available,Not Available,Not Available
+061344,ST THOMAS MORE HOSPITAL,CO,Critical Access Hospitals,Voluntary non-profit - Private,True,3.0,1,5,0
+063301,CHILDREN'S HOSPITAL COLORADO,CO,Childrens,Voluntary non-profit - Private,True,,Not Available,Not Available,Not Available
+063303,CHILDREN'S HOSPITAL COLORADO - COLORADO SPRINGS,CO,Childrens,Voluntary non-profit - Private,True,,Not Available,Not Available,Not Available
+064001,COLORADO MENTAL HEALTH HOSPITAL IN PUEBLO,CO,Psychiatric,Government - State,True,,Not Available,Not Available,Not Available
+064003,COLORADO MENTAL HEALTH HOSPITAL IN FORT LOGAN,CO,Psychiatric,Voluntary non-profit - Other,False,,Not Available,Not Available,Not Available
+064007,CENTENNIAL PEAKS HOSPITAL,CO,Psychiatric,Government - Hospital District or Authority,False,,Not Available,Not Available,Not Available
+064009,CEDAR SPRINGS HOSPITAL,CO,Psychiatric,Proprietary,True,,Not Available,Not Available,Not Available
+064023,"WEST SPRINGS HOSPITAL, INC",CO,Psychiatric,Voluntary non-profit - Private,False,,Not Available,Not Available,Not Available
+064024,HIGHLANDS BEHAVIORAL HEALTH SYSTEM,CO,Psychiatric,Proprietary,False,,Not Available,Not Available,Not Available
+064026,PEAK VIEW BEHAVIORAL HEALTH,CO,Psychiatric,Proprietary,True,,Not Available,Not Available,Not Available
+064028,DENVER SPRINGS,CO,Psychiatric,Proprietary,False,,Not Available,Not Available,Not Available
+064029,JOHNSTOWN HEIGHTS BEHAVIORAL HEALTH,CO,Psychiatric,Proprietary,False,,Not Available,Not Available,Not Available
+064030,WEST PINES BEHAVIORAL HOSPITAL,CO,Psychiatric,Proprietary,False,,Not Available,Not Available,Not Available
+070002,ST FRANCIS HOSPITAL & MEDICAL CENTER,CT,Acute Care Hospitals,Voluntary non-profit - Church,True,2.0,1,8,2
+070003,DAY KIMBALL HOSPITAL,CT,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,0,8,1
+070004,SHARON HOSPITAL,CT,Acute Care Hospitals,Proprietary,True,5.0,0,7,0
+070005,WATERBURY HOSPITAL,CT,Acute Care Hospitals,Proprietary,True,3.0,0,8,0
+070006,STAMFORD HOSPITAL,CT,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,0,11,0
+070007,LAWRENCE & MEMORIAL HOSPITAL,CT,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,0,8,2
+070008,JOHNSON MEMORIAL HOSPITAL,CT,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,0,8,0
+070010,BRIDGEPORT HOSPITAL,CT,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,1,9,1
+070011,CHARLOTTE HUNGERFORD HOSPITAL,CT,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,0,7,1
+070012,ROCKVILLE GENERAL HOSPITAL,CT,Acute Care Hospitals,Proprietary,True,,0,1,0
+070016,SAINT MARY'S HOSPITAL,CT,Acute Care Hospitals,Voluntary non-profit - Church,True,3.0,2,7,0
+070017,MIDSTATE MEDICAL CENTER,CT,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,0,7,0
+070018,GREENWICH HOSPITAL ASSOCIATION -,CT,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,1,7,2
+070020,MIDDLESEX HOSPITAL,CT,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,0,6,1
+070021,WINDHAM COMMUNITY MEMORIAL HOSPITAL,CT,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,0,9,0
+070022,YALE-NEW HAVEN HOSPITAL,CT,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,1,7,3
+070024,WILLIAM W BACKUS HOSPITAL,CT,Acute Care Hospitals,Voluntary non-profit - Other,True,4.0,0,8,1
+070025,HARTFORD HOSPITAL,CT,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,0,9,2
+070027,MANCHESTER MEMORIAL HOSPITAL,CT,Acute Care Hospitals,Proprietary,True,3.0,0,7,0
+070028,ST VINCENT'S MEDICAL CENTER,CT,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,0,11,0
+070029,BRISTOL HOSPITAL,CT,Acute Care Hospitals,Voluntary non-profit - Private,True,2.0,0,8,0
+070031,GRIFFIN HOSPITAL,CT,Acute Care Hospitals,Voluntary non-profit - Other,True,4.0,0,7,2
+070033,DANBURY HOSPITAL,CT,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,0,8,3
+070034,NORWALK HOSPITAL,CT,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,0,7,2
+070035,THE HOSPITAL OF CENTRAL CONNECTICUT,CT,Acute Care Hospitals,Voluntary non-profit - Other,True,2.0,0,7,1
+070036,JOHN DEMPSEY HOSPITAL OF THE UNIVERSITY OF CONNECT,CT,Acute Care Hospitals,Government - Local,True,3.0,0,8,1
+070038,THE CONNECTICUT HOSPICE INC.,CT,Acute Care Hospitals,Voluntary non-profit - Private,False,,Not Available,Not Available,Not Available
+07003F,WEST HAVEN VA MEDICAL CENTER,CT,Acute Care - Veterans Administration,Veterans Health Administration,True,3.0,1,3,1
+073300,CONNECTICUT CHILDRENS MEDICAL CENTER,CT,Childrens,Voluntary non-profit - Private,True,,Not Available,Not Available,Not Available
+074003,CONNECTICUT VALLEY HOSP,CT,Psychiatric,Government - State,False,,Not Available,Not Available,Not Available
+074008,NATCHAUG HOSPITAL,CT,Psychiatric,Voluntary non-profit - Private,False,,Not Available,Not Available,Not Available
+074011,CONNECTICUT MENTAL HEALTH CENTER,CT,Psychiatric,Government - State,False,,Not Available,Not Available,Not Available
+074012,SOUTHWEST CONNECTICUT MENTAL HEALTH SYSTEM,CT,Psychiatric,Government - State,False,,Not Available,Not Available,Not Available
+074014,SILVER HILL HOSPITAL INC,CT,Psychiatric,Government - Federal,False,,Not Available,Not Available,Not Available
+074015,ALBERT J SOLNIT CHILDREN'S CENTER - SOUTH CAMPUS,CT,Psychiatric,Government - State,False,,Not Available,Not Available,Not Available
+074016,MASONICARE HEALTH CENTER,CT,Psychiatric,Voluntary non-profit - Private,False,,Not Available,Not Available,Not Available
+074017,CONNECTICUT BEHAVIORAL HEALTH HOSPITAL,CT,Psychiatric,Voluntary non-profit - Private,False,,Not Available,Not Available,Not Available
+080001,CHRISTIANA HOSPITAL,DE,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,2,9,0
+080003,ST FRANCIS HOSPITAL,DE,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,0,6,0
+080004,"BAYHEALTH MEDICAL CENTER, KENT CAMPUS",DE,Acute Care Hospitals,Voluntary non-profit - Private,True,2.0,0,8,3
+080006,"TIDALHEALTH NANTICOKE, INC.",DE,Acute Care Hospitals,Voluntary non-profit - Private,True,5.0,0,9,0
+080007,BEEBE MEDICAL CENTER,DE,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,1,9,0
+080009,"BAYHEALTH HOSPITAL, SUSSEX CAMPUS",DE,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,1,8,0
+08002F,WILMINGTON VA MEDICAL CENTER,DE,Acute Care - Veterans Administration,Veterans Health Administration,True,4.0,0,4,0
+083300,"NEMOURS CHILDREN'S HOSPITAL, DELAWARE",DE,Childrens,Voluntary non-profit - Private,True,,Not Available,Not Available,Not Available
+084001,DELAWARE PSYCHIATRIC CENTER,DE,Psychiatric,Government - State,False,,Not Available,Not Available,Not Available
+084002,ROCKFORD CENTER,DE,Psychiatric,Proprietary,True,,Not Available,Not Available,Not Available
+084003,MEADOWWOOD BEHAVIORAL HEALTH SYSTEM,DE,Psychiatric,Proprietary,False,,Not Available,Not Available,Not Available
+084004,DOVER BEHAVIORAL HEALTH SYSTEM,DE,Psychiatric,Proprietary,False,,Not Available,Not Available,Not Available
+084005,SUN BEHAVIORAL DELAWARE LLC,DE,Psychiatric,Proprietary,False,,Not Available,Not Available,Not Available
+090001,GEORGE WASHINGTON UNIV HOSPITAL,DC,Acute Care Hospitals,Proprietary,True,1.0,0,9,0
+090003,HOWARD UNIVERSITY HOSPITAL CORP,DC,Acute Care Hospitals,Voluntary non-profit - Other,False,1.0,0,4,2
+090004,MEDSTAR GEORGETOWN UNIVERSITY HOSPITAL,DC,Acute Care Hospitals,Proprietary,True,3.0,1,6,2
+090005,SIBLEY MEMORIAL HOSPITAL,DC,Acute Care Hospitals,Voluntary non-profit - Other,True,3.0,0,9,0
+090008,UNITED MEDICAL CENTER,DC,Acute Care Hospitals,Proprietary,True,2.0,0,4,1
+090011,MEDSTAR WASHINGTON HOSPITAL CENTER,DC,Acute Care Hospitals,Voluntary non-profit - Other,True,3.0,1,9,1
+09002F,WASHINGTON DC VA MEDICAL CENTER,DC,Acute Care - Veterans Administration,Veterans Health Administration,True,3.0,1,4,1
+093300,CHILDREN'S NATIONAL HOSPITAL,DC,Childrens,Voluntary non-profit - Private,True,,Not Available,Not Available,Not Available
+094001,ST ELIZABETHS HOSPITAL,DC,Psychiatric,Government - State,False,,Not Available,Not Available,Not Available
+094004,PSYCHIATRIC INSTITUTE OF WASHINGTON,DC,Psychiatric,Voluntary non-profit - Private,False,,Not Available,Not Available,Not Available
+100001,SHANDS JACKSONVILLE,FL,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,0,10,0
+100002,BETHESDA HOSPITAL EAST,FL,Acute Care Hospitals,Voluntary non-profit - Private,True,2.0,0,9,0
+100006,ORLANDO HEALTH,FL,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,0,7,4
+100007,ADVENTHEALTH ORLANDO,FL,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,0,4,7
+100008,BAPTIST HOSPITAL OF MIAMI,FL,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,0,8,2
+100012,LEE MEMORIAL HOSPITAL,FL,Acute Care Hospitals,Government - Hospital District or Authority,True,4.0,1,8,2
+100014,ADVENTHEALTH NEW SMYRNA BEACH,FL,Acute Care Hospitals,Voluntary non-profit - Church,True,4.0,1,8,0
+100017,HALIFAX HEALTH MEDICAL CENTER,FL,Acute Care Hospitals,Government - Hospital District or Authority,True,2.0,0,10,1
+100018,NAPLES COMMUNITY HOSPITAL,FL,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,0,9,2
+100019,HOLMES REGIONAL MEDICAL CENTER,FL,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,2,6,1
+100022,JACKSON HEALTH SYSTEM,FL,Acute Care Hospitals,Government - Hospital District or Authority,True,1.0,0,7,2
+100023,HCA FLORIDA CITRUS HOSPITAL,FL,Acute Care Hospitals,Government - Hospital District or Authority,True,2.0,0,8,1
+100025,SACRED HEART HOSPITAL,FL,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,0,10,1
+100026,ASCENSION SACRED HEART BAY,FL,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,0,9,0
+100028,PARRISH MEDICAL CENTER,FL,Acute Care Hospitals,Government - Hospital District or Authority,True,1.0,1,7,0
+100029,NORTH SHORE MEDICAL CENTER,FL,Acute Care Hospitals,Proprietary,True,1.0,0,7,1
+100030,ORLANDO HEALTH-HEALTH CENTRAL HOSPITAL,FL,Acute Care Hospitals,Government - State,True,3.0,0,7,1
+100032,ORLANDO HEALTH BAYFRONT HOSPITAL,FL,Acute Care Hospitals,Voluntary non-profit - Private,True,2.0,0,8,0
+100034,"MOUNT SINAI MEDICAL CENTER OF FLORIDA, INC",FL,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,0,9,2
+100035,MANATEE MEMORIAL HOSPITAL,FL,Acute Care Hospitals,Proprietary,True,2.0,0,8,1
+100038,MEMORIAL REGIONAL HOSPITAL,FL,Acute Care Hospitals,Government - Hospital District or Authority,True,3.0,0,9,2
+100039,BROWARD HEALTH MEDICAL CENTER,FL,Acute Care Hospitals,Government - Hospital District or Authority,True,3.0,0,9,1
+100040,ASCENSION ST VINCENT'S RIVERSIDE,FL,Acute Care Hospitals,Voluntary non-profit - Private,True,2.0,1,7,1
+100043,MEASE DUNEDIN HOSPITAL,FL,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,1,5,0
+100044,CLEVELAND CLINIC MARTIN NORTH HOSPITAL,FL,Acute Care Hospitals,Voluntary non-profit - Private,True,2.0,0,9,2
+100045,ADVENTHEALTH DELAND,FL,Acute Care Hospitals,Voluntary non-profit - Church,True,4.0,0,7,0
+100046,FLORIDA HOSPITAL ZEPHYRHILLS,FL,Acute Care Hospitals,Voluntary non-profit - Church,True,5.0,1,7,0
+100047,SHOREPOINT HEALTH PUNTA GORDA,FL,Acute Care Hospitals,Proprietary,True,2.0,0,5,1
+100049,HCA FLORIDA HIGHLANDS HOSPITAL,FL,Acute Care Hospitals,Proprietary,True,2.0,1,6,1
+100050,LARKIN COMMUNITY HOSPITAL PALM SPRINGS CAMPUS,FL,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,0,4,0
+100051,ORLANDO HEALTH SOUTH LAKE HOSPITAL,FL,Acute Care Hospitals,Government - Hospital District or Authority,True,3.0,0,8,2
+100052,WINTER HAVEN HOSPITAL,FL,Acute Care Hospitals,Voluntary non-profit - Private,True,2.0,1,7,2
+100053,HIALEAH HOSPITAL,FL,Acute Care Hospitals,Proprietary,True,3.0,0,3,1
+100054,HCA FLORIDA TWIN CITIES HOSPITAL,FL,Acute Care Hospitals,Proprietary,True,4.0,0,7,0
+100055,ADVENTHEALTH NORTH PINELLAS,FL,Acute Care Hospitals,Voluntary non-profit - Other,True,3.0,0,7,1
+100057,ADVENTHEALTH WATERMAN,FL,Acute Care Hospitals,Voluntary non-profit - Church,False,4.0,0,9,0
+100062,ADVENTHEALTH OCALA,FL,Acute Care Hospitals,Government - Hospital District or Authority,True,4.0,1,8,0
+100063,MORTON PLANT NORTH BAY HOSPITAL,FL,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,0,7,0
+100067,ST ANTHONYS HOSPITAL,FL,Acute Care Hospitals,Voluntary non-profit - Church,True,3.0,0,8,1
+100068,ADVENTHEALTH DAYTONA BEACH,FL,Acute Care Hospitals,Voluntary non-profit - Church,True,4.0,1,7,1
+100069,FLORIDA HOSPITAL CARROLLWOOD,FL,Acute Care Hospitals,Voluntary non-profit - Church,True,3.0,0,7,0
+100071,TAMPA GENERAL HOSPITAL BROOKSVILLE,FL,Acute Care Hospitals,Voluntary non-profit - Church,True,1.0,0,4,3
+100072,ADVENTHEALTH FISH MEMORIAL,FL,Acute Care Hospitals,Voluntary non-profit - Church,True,5.0,0,7,0
+100073,HOLY CROSS HOSPITAL,FL,Acute Care Hospitals,Voluntary non-profit - Church,True,4.0,0,11,0
+100075,ST JOSEPHS HOSPITAL,FL,Acute Care Hospitals,Voluntary non-profit - Church,True,4.0,0,9,1
+100077,SHOREPOINT HEALTH PORT CHARLOTTE,FL,Acute Care Hospitals,Proprietary,True,1.0,0,6,3
+100080,HCA FLORIDA JFK HOSPITAL,FL,Acute Care Hospitals,Proprietary,True,2.0,0,6,3
+100084,UF HEALTH LEESBURG HOSPITAL,FL,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,0,8,1
+100086,BROWARD HEALTH NORTH,FL,Acute Care Hospitals,Government - Hospital District or Authority,True,2.0,0,7,3
+100087,SARASOTA MEMORIAL HOSPITAL,FL,Acute Care Hospitals,Government - Hospital District or Authority,True,5.0,2,8,1
+100088,BAPTIST HEALTH MEDICAL CENTER - JACKSONVILLE,FL,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,1,9,1
+100090,FLAGLER HOSPITAL,FL,Acute Care Hospitals,Voluntary non-profit - Private,True,2.0,0,8,1
+100092,ORLANDO HEALTH ROCKLEDGE HOSPITAL,FL,Acute Care Hospitals,Voluntary non-profit - Private,True,5.0,0,8,0
+100093,BAPTIST HOSPITAL,FL,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,1,10,0
+100099,ADVENTHEALTH LAKE WALES,FL,Acute Care Hospitals,Proprietary,True,3.0,0,5,1
+10009F,BAY PINES VA MEDICAL CENTER,FL,Acute Care - Veterans Administration,Veterans Health Administration,True,3.0,0,3,3
+100105,CLEVELAND CLINIC INDIAN RIVER HOSPITAL,FL,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,2,9,0
+100107,HCA FLORIDA LEHIGH REGIONAL MEDICAL CENTER,FL,Acute Care Hospitals,Voluntary non-profit - Private,True,2.0,0,5,0
+100109,ADVENTHEALTH SEBRING,FL,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,0,9,1
+100110,HCA FLORIDA OSCEOLA HOSPITAL,FL,Acute Care Hospitals,Proprietary,True,1.0,0,3,4
+100113,UF HEALTH SHANDS HOSPITAL,FL,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,1,8,2
+100117,BAPTIST MEDICAL CENTER  BEACHES,FL,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,1,7,0
+100118,FLORIDA HOSPITAL FLAGLER,FL,Acute Care Hospitals,Voluntary non-profit - Church,True,3.0,1,6,1
+100121,BARTOW REGIONAL MEDICAL CENTER,FL,Acute Care Hospitals,Proprietary,True,2.0,0,4,1
+100122,NORTH OKALOOSA MEDICAL CENTER,FL,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,1,8,0
+100124,SANTA ROSA MEDICAL CENTER,FL,Acute Care Hospitals,Proprietary,True,4.0,0,7,0
+100125,HOMESTEAD HOSPITAL,FL,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,0,6,0
+100126,HCA FLORIDA PASADENA HOSPITAL,FL,Acute Care Hospitals,Proprietary,True,3.0,0,6,1
+100127,MORTON PLANT HOSPITAL,FL,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,1,9,1
+100128,TAMPA GENERAL HOSPITAL,FL,Acute Care Hospitals,Voluntary non-profit - Private,True,2.0,0,7,4
+100130,LAKESIDE MEDICAL CENTER,FL,Acute Care Hospitals,Government - Hospital District or Authority,True,,0,2,0
+100131,HCA FLORIDA AVENTURA HOSPITAL,FL,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,0,5,3
+100132,SOUTH FLORIDA BAPTIST HOSPITAL,FL,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,0,9,0
+100134,ED FRASER MEMORIAL HOSPITAL,FL,Acute Care Hospitals,Voluntary non-profit - Private,True,,0,5,0
+100135,TALLAHASSEE MEMORIAL HEALTHCARE,FL,Acute Care Hospitals,Voluntary non-profit - Private,True,2.0,2,8,1
+100137,ADVENTHEALTH HEART OF FLORIDA,FL,Acute Care Hospitals,Proprietary,True,2.0,0,7,1
+10013F,NH Jacksonville,FL,Acute Care - Department of Defense,Department of Defense,True,,Not Available,Not Available,Not Available
+100140,BAPTIST MEDICAL CENTER - NASSAU,FL,Acute Care Hospitals,Voluntary non-profit - Private,True,5.0,1,5,0
+100142,JACKSON HOSPITAL,FL,Acute Care Hospitals,Government - Hospital District or Authority,True,1.0,0,8,1
+100150,LOWER KEYS MEDICAL CENTER,FL,Acute Care Hospitals,Proprietary,True,4.0,0,7,0
+100151,MAYO CLINIC,FL,Acute Care Hospitals,Voluntary non-profit - Private,True,5.0,2,9,0
+100154,SOUTH MIAMI HOSPITAL,FL,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,1,5,2
+100156,HCA FLORIDA LAKE CITY HOSPITAL,FL,Acute Care Hospitals,Proprietary,True,2.0,1,5,1
+100157,LAKELAND REGIONAL MEDICAL CENTER,FL,Acute Care Hospitals,Voluntary non-profit - Private,True,1.0,0,8,3
+10015F,VA NORTH FLORIDA/SOUTH GEORGIA HEALTHCARE SYSTEM - LAKE CITY,FL,Acute Care - Veterans Administration,Veterans Health Administration,True,,0,4,0
+100161,CENTRAL FLORIDA LAKE MONROE HOSPITAL,FL,Acute Care Hospitals,Proprietary,True,2.0,0,6,2
+100166,HCA FLORIDA SARASOTA DOCTORS HOSPITAL,FL,Acute Care Hospitals,Proprietary,True,4.0,1,6,1
+100167,HCA FLORIDA MERCY HOSPITAL,FL,Acute Care Hospitals,Voluntary non-profit - Private,True,1.0,0,2,5
+100168,BOCA RATON REGIONAL HOSPITAL,FL,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,1,8,2
+100173,ADVENTHEALTH TAMPA,FL,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,1,8,0
+100175,DESOTO MEMORIAL HOSPITAL,FL,Acute Care Hospitals,Voluntary non-profit - Private,True,2.0,0,5,0
+100176,PALM BEACH GARDENS MEDICAL CENTER,FL,Acute Care Hospitals,Proprietary,True,1.0,0,8,1
+100177,CAPE CANAVERAL HOSPITAL,FL,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,1,7,0
+100179,HCA FLORIDA MEMORIAL HOSPITAL,FL,Acute Care Hospitals,Proprietary,True,2.0,0,7,2
+100180,HCA FLORIDA ST PETERSBURG HOSPITAL,FL,Acute Care Hospitals,Proprietary,True,2.0,0,4,1
+100181,LARKIN COMMUNITY HOSPITAL,FL,Acute Care Hospitals,Proprietary,True,,0,1,1
+100183,CORAL GABLES HOSPITAL,FL,Acute Care Hospitals,Proprietary,True,3.0,0,4,1
+100187,PALMETTO GENERAL HOSPITAL,FL,Acute Care Hospitals,Proprietary,True,2.0,0,7,0
+100189,HCA FLORIDA NORTHWEST HOSPITAL,FL,Acute Care Hospitals,Proprietary,True,1.0,0,4,2
+100191,HCA FLORIDA TRINITY HOSPITAL,FL,Acute Care Hospitals,Proprietary,True,2.0,0,7,1
+100200,BROWARD HEALTH IMPERIAL POINT,FL,Acute Care Hospitals,Government - Hospital District or Authority,False,2.0,0,5,1
+100204,HCA FLORIDA NORTH FLORIDA HOSPITAL,FL,Acute Care Hospitals,Proprietary,True,2.0,1,7,1
+100206,HCA FLORIDA SOUTH TAMPA HOSPITAL,FL,Acute Care Hospitals,Proprietary,True,4.0,0,5,1
+100209,HCA FLORIDA KENDALL HOSPITAL,FL,Acute Care Hospitals,Proprietary,True,3.0,0,6,1
+100211,ADVENTHEALTH DADE CITY,FL,Acute Care Hospitals,Proprietary,False,4.0,0,6,0
+100212,MARION COMMUNTIY HOSPITAL,FL,Acute Care Hospitals,Proprietary,True,1.0,0,7,2
+100213,HCA FLORIDA BLAKE HOSPITAL,FL,Acute Care Hospitals,Proprietary,True,2.0,0,7,2
+100217,ORLANDO HEALTH SEBASTIAN RIVER HOSPITAL,FL,Acute Care Hospitals,Voluntary non-profit - Private,True,3.0,0,8,0
+10021F,96th Medical Group (Eglin AFB),FL,Acute Care - Department of Defense,Department of Defense,True,,Not Available,Not Available,Not Available
+100220,GULF COAST MEDICAL CENTER LEE HEALTH,FL,Acute Care Hospitals,Government - Hospital District or Authority,True,4.0,0,9,1
+100223,HCA FLORIDA FORT WALTON-DESTIN HOSPITAL,FL,Acute Care Hospitals,Proprietary,True,3.0,0,8,1
+100224,UNIVERSITY HOSPITAL AND MEDICAL CENTER,FL,Acute Care Hospitals,Proprietary,True,1.0,0,2,4
+100226,HCA FLORIDA ORANGE PARK HOSPITAL,FL,Acute Care Hospitals,Voluntary non-profit - Other,True,3.0,0,9,0
+100228,WESTSIDE REGIONAL MEDICAL CENTER,FL,Acute Care Hospitals,Proprietary,False,2.0,0,7,1
+100230,MEMORIAL HOSPITAL PEMBROKE,FL,Acute Care Hospitals,Government - Hospital District or Authority,True,3.0,0,4,1
+100231,HCA FLORIDA WEST HOSPITAL,FL,Acute Care Hospitals,Proprietary,True,3.0,0,8,1
+100232,HCA FLORIDA PUTNAM HOSPITAL,FL,Acute Care Hospitals,Proprietary,True,1.0,0,8,0
+100236,HCA FLORIDA FAWCETT HOSPITAL,FL,Acute Care Hospitals,Proprietary,True,2.0,0,6,2
+100238,HCA FLORIDA NORTHSIDE HOSPITAL,FL,Acute Care Hospitals,Proprietary,True,1.0,0,8,1
+100242,HCA FLORIDA GULF COAST HOSPITAL,FL,Acute Care Hospitals,Proprietary,True,3.0,0,8,0
+100243,HCA FLORIDA BRANDON HOSPITAL,FL,Acute Care Hospitals,Proprietary,True,2.0,0,6,3
+100244,CAPE CORAL HOSPITAL,FL,Acute Care Hospitals,Government - Hospital District or Authority,True,4.0,0,5,2
+100246,HCA FLORIDA LAWNWOOD HOSPITAL,FL,Acute Care Hospitals,Proprietary,True,1.0,0,4,3
+100248,HCA FLORIDA LARGO HOSPITAL,FL,Acute Care Hospitals,Proprietary,True,1.0,0,5,3
+100249,TAMPA GENERAL HOSPITAL CRYSTAL RIVER,FL,Acute Care Hospitals,Voluntary non-profit - Private,False,2.0,0,8,0
+100252,HCA FLORIDA RAULERSON HOSPITAL,FL,Acute Care Hospitals,Proprietary,False,3.0,0,6,0
+100253,JUPITER MEDICAL CENTER,FL,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,0,9,2
+100254,HCA FLORIDA CAPITAL HOSPITAL,FL,Acute Care Hospitals,Proprietary,True,2.0,0,8,1
+100256,HCA FLORIDA BAYONET POINT HOSPITAL,FL,Acute Care Hospitals,Proprietary,True,2.0,0,8,0
+100258,DELRAY MEDICAL CENTER,FL,Acute Care Hospitals,Proprietary,True,1.0,0,8,1
+100259,HCA FLORIDA SOUTH SHORE HOSPITAL,FL,Acute Care Hospitals,Proprietary,True,3.0,0,8,0
+100260,ST LUCIE MEDICAL CENTER,FL,Acute Care Hospitals,Proprietary,True,1.0,0,1,6
+100264,HCA FLORIDA OAK HILL HOSPITAL,FL,Acute Care Hospitals,Proprietary,True,2.0,0,7,2
+100265,MEASE COUNTRYSIDE HOSPITAL,FL,Acute Care Hospitals,Voluntary non-profit - Private,True,4.0,0,9,0
+100266,GULF BREEZE HOSPITAL,FL,Acute Care Hospitals,Voluntary non-profit - Other,True,4.0,0,7,0
+100267,HCA FLORIDA ENGLEWOOD HOSPITAL,FL,Acute Care Hospitals,Proprietary,True,3.0,0,8,0
+100268,WEST BOCA MEDICAL CENTER,FL,Acute Care Hospitals,Proprietary,True,2.0,0,7,0
+100269,HCA FLORIDA PALMS WEST HOSPITAL,FL,Acute Care Hospitals,Proprietary,True,2.0,0,4,2
+100275,WELLINGTON REGIONAL MEDICAL CENTER,FL,Acute Care Hospitals,Proprietary,True,1.0,0,6,2
+100276,BROWARD HEALTH CORAL SPRINGS,FL,Acute Care Hospitals,Government - Hospital District or Authority,True,3.0,0,6,1
+100277,DOUGLAS GARDENS HOSPITAL,FL,Acute Care Hospitals,Voluntary non-profit - Private,False,,Not Available,Not Available,Not Available

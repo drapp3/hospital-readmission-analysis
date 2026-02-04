@@ -1,0 +1,70 @@
+# Hospital Readmission Risk Analysis
+
+Predicting 30-day hospital readmissions using patient encounter data from 130 US hospitals.
+
+**Author:** Davis Rapp  
+**Date:** February 2025
+
+## Problem
+
+Hospitals face CMS penalties for high 30-day readmission rates. Identifying high-risk patients before discharge enables targeted interventions (follow-up calls, home health visits) to reduce preventable readmissions.
+
+## Data
+
+- **Source:** [UCI Diabetes 130-US Hospitals](https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008)
+- **Size:** 101,766 patient encounters
+- **Features:** Demographics, diagnoses, medications, prior utilization, length of stay
+
+## Approach
+
+1. **EDA:** Identified key risk factors (prior inpatient stays, medication count, length of stay)
+2. **Feature Engineering:** Created risk indicators (high utilizer flag, long stay flag, etc.)
+3. **Modeling:** Random Forest with class balancing to handle 11% positive rate
+4. **Risk Tiers:** Segmented patients into Low/Medium/High risk for care prioritization
+
+## Results
+
+| Risk Tier | Patients | Readmission Rate |
+|-----------|----------|------------------|
+| High | 2,149 | 22.9% |
+| Medium | 5,893 | 14.1% |
+| Low | 12,312 | 7.8% |
+
+High-risk patients are **3x more likely** to be readmitted than low-risk.
+
+**Model Performance:**
+- ROC-AUC: 0.64
+- Recall: 51% (catches half of actual readmissions)
+
+## Project Structure
+```
+├── data/
+│   ├── raw/                # Original datasets
+│   ├── processed/          # Cleaned data, model, predictions
+│   └── output/             # Tableau export
+├── notebooks/
+│   └── exploration.ipynb   # EDA with visualizations
+├── python/
+│   ├── 01_pull_cms_api.py  # API integration demo
+│   ├── 02_data_cleaning.py
+│   ├── 03_feature_engineering.py
+│   ├── 04_modeling.py
+│   └── 05_export_for_tableau.py
+└── README.md
+```
+
+## Key Findings
+
+- **Prior inpatient stays** is the strongest predictor — patients with 2+ prior admissions have significantly higher risk
+- **Number of medications** correlates with complexity and readmission risk
+- **Discharge disposition** matters — SNF/rehab discharges have higher rates than home discharges
+
+## Tools
+
+Python (pandas, scikit-learn), SQL, Tableau
+
+## Next Steps
+
+- [ ] Tableau dashboard for interactive risk exploration
+- [ ] Test additional models (XGBoost, Logistic Regression)
+- [ ] Add SHAP values for individual prediction explanations
