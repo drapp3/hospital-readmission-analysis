@@ -54,6 +54,16 @@ High-risk patients are **3x more likely** to be readmitted than low-risk.
 └── README.md
 ```
 
+## How to Run
+1. Install requirements: `pip install -r requirements.txt`
+2. Run scripts in order:
+   - `python/01_pull_cms_api.py` (optional - demo only)
+   - `python/02_data_cleaning.py`
+   - `python/03_feature_engineering.py`
+   - `python/04_modeling.py`
+   - `python/05_export_for_tableau.py`
+3. Explore results in `notebooks/exploration.ipynb`
+
 ## Key Findings
 
 - **Prior inpatient stays** is the strongest predictor — patients with 2+ prior admissions have significantly higher risk
