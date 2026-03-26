@@ -6,7 +6,7 @@ Predicting 30-day hospital readmissions using patient encounter data from 130 US
 
 ## 📊 Interactive Dashboard
 **[View Live Tableau Dashboard →](https://public.tableau.com/views/HospitalReadmissionRiskAnalysis_17745410531980/Dashboard1)**
-![Dashboard Preview](hospital_readmission_tableau.png)
+![Dashboard Preview](dashboard.png)
 
 Explore readmission risk by risk tier, age group, prior hospital visits, and medication complexity. Includes interactive filters for age, gender, race, and risk tier.
 
