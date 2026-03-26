@@ -1,29 +1,29 @@
 # Hospital Readmission Risk Analysis
-
 Predicting 30-day hospital readmissions using patient encounter data from 130 US hospitals.
 
 **Author:** Davis Rapp  
 **Date:** February 2025
 
-## Problem
+## 📊 Interactive Dashboard
+**[View Live Tableau Dashboard →](https://public.tableau.com/views/HospitalReadmissionRiskAnalysis_17745410531980/Dashboard1)**
 
+Explore readmission risk by risk tier, age group, prior hospital visits, and medication complexity. Includes interactive filters for age, gender, race, and risk tier.
+
+## Problem
 Hospitals face CMS penalties for high 30-day readmission rates. Identifying high-risk patients before discharge enables targeted interventions (follow-up calls, home health visits) to reduce preventable readmissions.
 
 ## Data
-
 - **Source:** [UCI Diabetes 130-US Hospitals](https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008)
 - **Size:** 101,766 patient encounters
 - **Features:** Demographics, diagnoses, medications, prior utilization, length of stay
 
 ## Approach
-
 1. **EDA:** Identified key risk factors (prior inpatient stays, medication count, length of stay)
 2. **Feature Engineering:** Created risk indicators (high utilizer flag, long stay flag, etc.)
 3. **Modeling:** Random Forest with class balancing to handle 11% positive rate
 4. **Risk Tiers:** Segmented patients into Low/Medium/High risk for care prioritization
 
 ## Results
-
 | Risk Tier | Patients | Readmission Rate |
 |-----------|----------|------------------|
 | High | 2,149 | 22.9% |
@@ -65,17 +65,13 @@ High-risk patients are **3x more likely** to be readmitted than low-risk.
 3. Explore results in `notebooks/exploration.ipynb`
 
 ## Key Findings
-
 - **Prior inpatient stays** is the strongest predictor — patients with 2+ prior admissions have significantly higher risk
 - **Number of medications** correlates with complexity and readmission risk
 - **Discharge disposition** matters — SNF/rehab discharges have higher rates than home discharges
 
 ## Tools
-
 Python (pandas, scikit-learn), SQL, Tableau
 
 ## Next Steps
-
-- [ ] Tableau dashboard for interactive risk exploration
 - [ ] Test additional models (XGBoost, Logistic Regression)
 - [ ] Add SHAP values for individual prediction explanations
