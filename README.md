@@ -1,9 +1,6 @@
 # Hospital Readmission Risk Analysis
 Predicting 30-day hospital readmissions using patient encounter data from 130 US hospitals.
 
-**Author:** Davis Rapp  
-**Date:** February 2025
-
 ## 📊 Interactive Dashboard
 **[View Live Tableau Dashboard →](https://public.tableau.com/views/HospitalReadmissionRiskAnalysis_17745410531980/Dashboard1)**
 ![Dashboard Preview](dashboard.png)
@@ -41,13 +38,13 @@ High-risk patients are **3x more likely** to be readmitted than low-risk.
 ## Project Structure
 ```
 ├── data/
-│   ├── raw/                # Original datasets
-│   ├── processed/          # Cleaned data, model, predictions
-│   └── output/             # Tableau export
+│   ├── raw/
+│   ├── processed/
+│   └── output/
 ├── notebooks/
-│   └── exploration.ipynb   # EDA with visualizations
+│   └── exploration.ipynb
 ├── python/
-│   ├── 01_pull_cms_api.py  # API integration demo
+│   ├── 01_pull_cms_api.py
 │   ├── 02_data_cleaning.py
 │   ├── 03_feature_engineering.py
 │   ├── 04_modeling.py
