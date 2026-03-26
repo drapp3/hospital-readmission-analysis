@@ -5,13 +5,10 @@ Prepare data for Tableau dashboard.
 
 import pandas as pd
 
-# Load predictions
 df = pd.read_csv("data/processed/predictions.csv")
 
-# Load original data to get readable labels back
 df_raw = pd.read_csv("data/raw/diabetic_data.csv")
 
-# Add back readable columns
 df["age"] = df_raw.loc[df.index, "age"].values
 df["gender"] = df_raw.loc[df.index, "gender"].values
 df["race"] = df_raw.loc[df.index, "race"].values
