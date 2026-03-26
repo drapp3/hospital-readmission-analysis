@@ -35,12 +35,10 @@ model = RandomForestClassifier(
 )
 model.fit(X_train, y_train)
 
-# Get probabilities
 y_prob = model.predict_proba(X_test)[:, 1]
 
 print(f"\nROC-AUC: {roc_auc_score(y_test, y_prob):.3f}")
 
-# Find best threshold using precision-recall curve
 precision, recall, thresholds = precision_recall_curve(y_test, y_prob)
 
 best_thresh = 0.5
@@ -51,12 +49,10 @@ for i, r in enumerate(recall):
 
 print(f"Using threshold: {best_thresh:.3f}")
 
-# Apply custom threshold
 y_pred = (y_prob >= best_thresh).astype(int)
 
 print(f"\n{classification_report(y_test, y_pred)}")
 
-# Feature importance
 print("\nTop 10 Features:")
 importance = pd.DataFrame({
     "feature": X.columns,
@@ -65,7 +61,6 @@ importance = pd.DataFrame({
 
 print(importance.head(10).to_string(index=False))
 
-# Save model
 import joblib
 joblib.dump(model, "data/processed/model.pkl")
 print("\nModel saved to data/processed/model.pkl")
